@@ -58,7 +58,7 @@ A realse note documents the technical updates between two versions of the same s
 ```
 
 **Other**
-This part is optional and only added if there are changes since previous release.
+*This part is optional and only added if there are changes since previous release.*
 ```text
 - system Requirements
 - Installation instructions
