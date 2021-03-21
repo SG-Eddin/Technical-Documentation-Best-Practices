@@ -20,7 +20,7 @@ A realse note documents the technical updates between two versions of the same s
 * Inlcude relevant links
 
 ## An example template for a release note:
-```- Release date
+```- Release date.
    - Product version
    - Previous product version```
 
