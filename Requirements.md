@@ -49,8 +49,8 @@ While writing, there are two perspectives to consider:
 
 User Perspective            |  system Perspective            
 ----------------------------|--------------------------------
-Writing what users expects from the product.
-**User type:** Actor name (ie. Administrator)
-**Result:** ...shall be able to [do something].
-**Object:** ... [to something]
-**Qualifier:** *obtional* [response time goal or quality object]
+Writing what users expect from the product.
+**User type:** ```Actor name (ie. Administrator)```
+**Result:** ...shall be able to ```[do something].```
+**Object:** ... ```[to something]```
+**Qualifier:** *obtional* ```[response time goal or quality object]```
