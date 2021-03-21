@@ -23,11 +23,11 @@ A realse note documents the technical updates between two versions of the same s
 - Release date
 - Product version
 - Previous product version
-- 
+-
 **New Features**
 - List the features or functionality in this release.
 - What are the benefits of the new feature?
-- 
+
 **Enhancements** (improvements made in the existing features)
 - List changes to existing features.
 - What is the justification for the change?
