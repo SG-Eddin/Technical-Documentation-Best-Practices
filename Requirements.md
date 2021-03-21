@@ -1,5 +1,5 @@
 # Writing Requirements
-                     ``` Poor Requirements = Project Failure ```
+                      Poor Requirements = Project Failure
 Requirements are Functional and Non-Functional.
 ## Functional Requirements
 Functional requiremets are the product features or functions that the developers must implement too enable users to do stuff.
