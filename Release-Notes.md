@@ -29,25 +29,37 @@ A realse note documents the technical updates between two versions of the same s
 ```
 
 **New Features**
+``` text
 - List the features or functionality in this release.
 - What are the benefits of the new feature?
+```
 
 **Enhancements** (improvements made in the existing features)
+```text
 - List changes to existing features.
 - What is the justification for the change?
 - How is the change beneficial?
+```
 
 **Resolved Issues** (bug fixes in high-level without technical details)
+```text
 - Detail any problems that existed in previous release, that were fixed in this release.
 - Include the solution to the issue.
+```
 
 **Known Issues**
+```text
 - List any bugs that are known ti exist when the software releases (Make sure they are resolved in subsequent releases).
+```
 
 **FAQs**
+```text
 - Common or anticipated user questions and their answers.
+```
 
 **Other**
 This part is optional and only added if there are changes since previous release.
+```text
 - system Requirements
 - Installation instructions
+```
