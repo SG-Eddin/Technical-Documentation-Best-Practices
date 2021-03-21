@@ -9,12 +9,12 @@ To build a successful requirement document, you need to understand what your use
 > Successful =
 > 1. On time
 > 2. On budget
-> 3. atisfactory results.
-
+> 3. Satisfactory results.
+--
 > Challenged = The project is delivered but with
 > 1. Over time
 > 2. Over budget
 > Features and functionality must be modified.
-
+--
 > Fail = 
 > The project is cancelled during the development cycle.
