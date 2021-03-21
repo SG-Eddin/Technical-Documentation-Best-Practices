@@ -22,9 +22,9 @@ A realse note documents the technical updates between two versions of the same s
 ## An example template for a release note
 -------------------------------------------
 **Identify the document**
-* Release date
-* Product version**
-* Previous product version**
+- Release date
+- Product version
+- Previous product version
 
 **New Features**
 - List the features or functionality in this release.
@@ -37,4 +37,15 @@ A realse note documents the technical updates between two versions of the same s
 
 **Resolved Issues** (bug fixes in high-level without technical details)
 - Detail any problems that existed in previous release, that were fixed in this release.
-- 
+- Include the solution to the issue.
+
+**Known Issues**
+- List any bugs that are known ti exist when the software releases (Make sure they are resolved in subsequent releases).
+
+**FAQs**
+- Common or anticipated user questions and their answers.
+
+**Other**
+This part is optional and only added if there are changes since previous release.
+- system Requirements
+- Installation instructions
