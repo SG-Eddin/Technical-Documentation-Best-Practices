@@ -12,7 +12,7 @@ To build a successful requirement document, you need to understand what your use
 > 3. Satisfactory results.
 
 > **Challenged**
-The project is delivered but with
+The project is delivered but:
 > 1. Over time
 > 2. Over budget
 > Features and functionality must be modified.
@@ -47,5 +47,7 @@ While writing, there are two perspectives to consider:
 - User Perspective
 - System Perspective
 
-User Perspective           |  system Perspective            
----------------------------|--------------------------------
+User Perspective            |  system Perspective            
+----------------------------|--------------------------------
+Writing what users expects  |
+from the product.
