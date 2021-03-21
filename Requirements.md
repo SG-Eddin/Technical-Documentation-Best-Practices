@@ -28,12 +28,8 @@ There are some characteristics of good requirements, they should be:
 2. **Complete** All the information is in one place with no missing information or extension in emails...etc.
 3. **Consistent** Does not contradict with any other requirement, and consistent with all other docs.
 4. **Atomic** Does not contain conjunctions.
-
 ``` Example:
-User selects (item) and (item) x
+ًWrong: User selects (item) and (item)
 should be:
 1. User selects (item),
 2. User selects (item) ```
-
-5. 
-
