@@ -50,8 +50,8 @@ While writing, there are two perspectives to consider:
 User Perspective            |  system Perspective            
 ----------------------------|--------------------------------
 Writing what users expect from the product. | Happens in the back-end and the user doesn\t see it.
-**User type:** ```Actor name (ie. Administrator)``` | **conditions:** ```when [some conditions are met```
-**Result:** ...shall be able to ```[do something].```| **Result:** ```the system shall [do something]```
+**User type:** ```Actor name (ie. Administrator)``` | **conditions:** ```when [some conditions are met]```
+**Result:** ...shall be able to ```[do something]```| **Result:** ```the system shall [do something]```
 **Object:** ... ```[to something]```|
 **Qualifier:** *optional* ```[response time goal or quality object]```| **Qualifier:** *optional* ```[response time goal or quality object]```
 Example: The administrator shall be able to sign in into the system through admin creditials only | Example: When an online purchase is done, the system shall send SMS within 30 seconds
