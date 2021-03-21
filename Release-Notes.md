@@ -22,9 +22,9 @@ A realse note documents the technical updates between two versions of the same s
 ## An example template for a release note
 -------------------------------------------
 **Identify the document**
-> - Release date
-- Product version
-- Previous product version <
+```- Release date```
+```- Product version```
+```- Previous product version```
 
 **New Features**
 - List the features or functionality in this release.
