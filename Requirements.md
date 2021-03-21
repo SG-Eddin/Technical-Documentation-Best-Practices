@@ -32,7 +32,7 @@ There are some characteristics of good requirements, they should be:
 ``` text
 Example:
 Wrong: User selects (item) and (item)
-should be:
+Should be:
 1. User selects (item),
 2. User selects (item)
 ```
