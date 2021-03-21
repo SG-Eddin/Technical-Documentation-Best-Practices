@@ -23,7 +23,7 @@ A realse note documents the technical updates between two versions of the same s
 - Release date
 - Product version
 - Previous product version
--
+
 **New Features**
 - List the features or functionality in this release.
 - What are the benefits of the new feature?
@@ -32,7 +32,7 @@ A realse note documents the technical updates between two versions of the same s
 - List changes to existing features.
 - What is the justification for the change?
 - How is the change beneficial?
-- 
+
 **Resolved Issues** (bug fixes in high-level without technical details)
 - Detail any problems that existed in previous release, that were fixed in this release.
 - 
