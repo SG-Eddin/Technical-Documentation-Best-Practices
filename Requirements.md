@@ -35,6 +35,11 @@ should be:
 1. User selects (item),
 2. User selects (item)
 ```
-6. **Traceable** All requirements should be documented so that no requirement pop up in the middle of the development and no one knows where it came from.
-7. **Current** Not obsolete.
-8. **Unambiguous** consise and without jargon, accrynoms, and only interpreted in one way and not uderstood differently by many people.
+5. **Traceable** All requirements should be documented so that no requirement pop up in the middle of the development and no one knows where it came from.
+6. **Current** Not obsolete.
+7. **Unambiguous** consise and without jargon, accrynoms, and only interpreted in one way and not uderstood differently by many people.
+8. **Specify Importance** Specifies a level of importance defined by stakeholders/time/budget. ```must have/good to have/nice to have```
+9. **Verifiable** After it is done, it can be tested and verified.
+
+## Perspective
+While writing, there are two persfectives to consider 
