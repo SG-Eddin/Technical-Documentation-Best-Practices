@@ -33,6 +33,7 @@ There are some characteristics of good requirements, they should be:
 User selects (item) and (item) x
 should be:
 1. User selects (item),
-2. 2. User selects (item) ```
+2. User selects (item) ```
 
+5. 
 
