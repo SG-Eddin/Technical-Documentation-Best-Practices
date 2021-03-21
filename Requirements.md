@@ -20,7 +20,7 @@ The project is delivered but:
 > * **Fail** 
 > The project is cancelled during the development cycle.
 
-Requirements are translations from users language to developers language.
+*Requirements are translations from users language to developers language.*
 
 ## Characteristics of requirements
 There are some characteristics of good requirements, they should be:
