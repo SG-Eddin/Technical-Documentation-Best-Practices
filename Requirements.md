@@ -27,5 +27,7 @@ Requirements are translations from users language to developers language.
 **3. Consistent** Does not contradict with any other requirement, and consistent with all other docs.
 **4. Atomic** Does not contain conjunctions.
 ```User selects (item) and (item) x
-```User selects (item),
-```User selects (item)```
+```1. User selects (item),
+```2. User selects (item)
+
+
