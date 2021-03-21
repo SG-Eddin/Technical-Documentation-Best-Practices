@@ -28,9 +28,13 @@ There are some characteristics of good requirements, they should be:
 2. **Complete** All the information is in one place with no missing information or extension in emails...etc.
 3. **Consistent** Does not contradict with any other requirement, and consistent with all other docs.
 4. **Atomic** Does not contain conjunctions.
-```Example:
+``` text
+Example:
 Wrong: User selects (item) and (item)
 should be:
 1. User selects (item),
-2. User selects (item)```
-3
+2. User selects (item)
+```
+6. **Traceable** All requirements should be documented so that no requirement pop up in the middle of the development and no one knows where it came from.
+7. **Current** Not obsolete.
+8. **Unambiguous** consise and without jargon, accrynoms, and only interpreted in one way and not uderstood differently by many people.
