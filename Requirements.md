@@ -42,4 +42,9 @@ should be:
 9. **Verifiable** After it is done, it can be tested and verified.
 
 ## Perspective
-While writing, there are two persfectives to consider 
+While writing, there are two perspectives to consider: 
+- User Perspective
+- System Perspective
+
+User Perspective           |  system Perspective            
+---------------------------|--------------------------------
