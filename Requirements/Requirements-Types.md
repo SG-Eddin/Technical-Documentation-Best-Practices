@@ -11,8 +11,8 @@ This will help you to describe:
 
 Now, let's see the requirements' types that will bring these points together:
 
-1. Business Requirements
-2. ```Business Rules``` What rules must be followed while building the product?
+1. [Business Requirements](https://github.com/SG-Eddin/Technical-Documentation-Best-Practices/blob/main/Requirements/Requirements-Types.md#business-requirements)
+2. [Business Rules](
 3. ```User Requirements``` What tasks end-users can do with the product?
 4. ```Functional Requirements``` What the product should do or support?
 5. ```Non-Functional Requirements``` How well a product must perform, or the quality factor of the product?
@@ -25,7 +25,8 @@ Business requirements answer the question of *'Why the product should be created
 > It is the way for business analysts to review the goals of the product.
 
 ## Business Rules (restrictions)
-Business rules falls under the buisness requirements and are **more specific** than buisness requirements.
+Business rules falls under the buisness requirements and are **more specific** than buisness requirements. 
+It answers the question of *'What rules must be followed while building the product?'*
 > Business rules constrain how the product must function appropriately to serve the business need.
 
 Examples:
