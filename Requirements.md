@@ -1,5 +1,11 @@
 # Writing Requirements Overview
                            Poor Requirements = Project Failure
+
+There are three main goals in order to make a better software:
+- The right product
+- Done right
+- Managed right
+- 
 ## Right Product
 To identify the right product, you must understand the needs of your client, not only what they want.
 You need to understand:
