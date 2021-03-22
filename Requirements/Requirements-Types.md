@@ -19,4 +19,5 @@ Now, let's see the requirements' types that will bring these points together:
 - **Functional Requirements** (what the product should do or support).
 - **Non-Functional Requirements** (how well a product must perform, or the quality factor of the product).
 
-A very important section is the >development constraints requirements
+A very important section is the ```development constraints requirements```
+
