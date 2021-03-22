@@ -3,5 +3,5 @@ End-User documentation is a deliverable that introduces the software that was de
 
 ## Types of End-User Documentation
 - User Guide (User Manual)
-- Quick Reference Guides
+- [Quick Start Guides (Quick Reference Guides)](https://github.com/SG-Eddin/Technical-Documentation-Best-Practices/blob/main/EndUser-Documentation/Quick-Start-Guide.md)
 - [Release Notes](https://github.com/SG-Eddin/Technical-Documentation-Best-Practices/blob/main/EndUser-Documentation/Release-Notes.md)
