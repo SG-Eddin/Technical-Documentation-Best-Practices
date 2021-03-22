@@ -1,6 +1,17 @@
-# Writing Requirements
-                      Poor Requirements = Project Failure
-Requirements are Functional and Non-Functional.
+# Writing Requirements Overview
+                           Poor Requirements = Project Failure
+## Right Product
+To identify the right product, you must understand the needs of your client, not only what they want.
+You need to understand:
+- What is the problem thay need to solve?
+- What are the tasks they need to do (using the software)?
+- Who will use this software and how will the user interact with it?
+
+By answering these questions, you will translate the clients' needs into developers' language so that they can build the product.
+
+## Done Right, and Managed Right
+To get the product done and managed right, the development team must have clear requirements, to be planned, designed, implemented, and tested.
+
 ## Functional Requirements
 Functional requiremets are the product features or functions that the developers must implement too enable users to do stuff.
 They describe the system beahviour under specific conditions.
