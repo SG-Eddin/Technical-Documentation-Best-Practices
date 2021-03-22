@@ -1,3 +1,15 @@
 # Requirements Types
-It was mentioned in [Presenting Requirements](https://github.com/SG-Eddin/Technical-Documentation-Best-Practices/blob/main/Requirements/Requirements-Overview.md#presenting-requirements) that you can present clients' needs in few forms.
-In the following points, it will be - briefly - explained, what are therse types
+It was mentioned in [Presenting Requirements](https://github.com/SG-Eddin/Technical-Documentation-Best-Practices/blob/main/Requirements/Requirements-Overview.md#presenting-requirements) that you can present clients' needs in few forms. 
+
+To get the most out of the requirements, you need to visualize:
+- A list of features which should be included in the final version of the product.
+- A let of description of how the product should perform in different situations.
+- The reason why that product should exit in the first place.
+
+This will help you to describe:
+- What the product should be like.
+- How it should work.
+- Why it should be done in the first place.
+
+
+
