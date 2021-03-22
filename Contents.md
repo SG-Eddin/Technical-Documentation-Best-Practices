@@ -9,5 +9,4 @@
   * [User Manual](https://github.com/SG-Eddin/Technical-Documentation-Best-Practices/blob/main/EndUser-Documentation/User-Manual.md)
   * [Quick Start Guides](https://github.com/SG-Eddin/Technical-Documentation-Best-Practices/blob/main/EndUser-Documentation/Quick-Start-Guides.md)
   * [Release Notes](https://github.com/SG-Eddin/Technical-Documentation-Best-Practices/blob/main/Release-Notes.md)
-  * 
 
