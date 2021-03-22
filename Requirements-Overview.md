@@ -2,7 +2,7 @@
 Poor Requirements = Project Failure
 
 > **Requirements** helps to clearly define client needs, detects errors early before they become expensive to fix, and to ensure that the product you are developing meets the needs of your client.
-> **They are a specific description of your client's needs**
+> **They are a specific description of your client's needs**.
  
 There are three main goals in order to make a better software:
 - The right product
@@ -12,7 +12,7 @@ There are three main goals in order to make a better software:
 ## Right Product
 To identify the right product, you must understand the needs of your client, not only what they want.
 You need to understand:
-- What is the problem thay need to solve?
+- What is the problem they need to solve?
 - What are the tasks they need to do (using the software)?
 - Who will use this software and how will the user interact with it?
 
@@ -26,6 +26,7 @@ the answer is **practicing requirements activities**
 ```text
 Activities comes in the specification phase where you define what your product will do and how it will do it
 ```
+In order to have better requirement, you - as a business analyst, product owner, or product manager - need to be more involved and interactive with your clients. This is called *requirement elicitation*.
 
 ## Functional Requirements
 Functional requiremets are the product features or functions that the developers must implement too enable users to do stuff.
