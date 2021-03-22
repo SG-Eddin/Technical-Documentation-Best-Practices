@@ -49,7 +49,7 @@ While writing, there are two perspectives to consider:
 - User Perspective
 - System Perspective
 
-User Perspective            |  system Perspective            
+User Perspective            |  System Perspective            
 ----------------------------|--------------------------------
 Writing what users expect from the product. | Happens in the back-end and the user doesn\t see it.
 **User type:** ```Actor name (i.e. Administrator)``` | **Conditions:** ```when [some conditions are met]```
