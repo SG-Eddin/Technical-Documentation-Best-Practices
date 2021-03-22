@@ -24,7 +24,7 @@ The project is delivered but:
 > ![Why Software Projects Fail](https://user-images.githubusercontent.com/60129693/111956021-f447d880-8af2-11eb-83ef-b43410acd0ea.jpg)
 
 
-## Characteristics of Requirements
+## Characteristics of Writing Good Requirements
 There are some characteristics of good requirements, they should be:
 
 1. **Cohesive** Each requirement addresses only one thing.
