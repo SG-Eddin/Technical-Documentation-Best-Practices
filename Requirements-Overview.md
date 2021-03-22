@@ -34,7 +34,7 @@ Clients' needs (requirements) can be represented in few forms, most common of th
 - Use Cases
 - User Stories
 - Story boards.
-Requirements representation can be textual or graphical, or both.
+> Requirements representation can be textual or graphical, or both.
 
 ### Prioritizing Requirements
 If you are working in a Scrum environment (even if you don't I think this is an important step), you need to prioritize the big requirement list of your client into:
