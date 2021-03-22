@@ -13,10 +13,10 @@ This will help you to describe:
 
 Now, let's see the requirements' types that will bring these points together:
 
-- Business Requirements (**why** the product should be done?).
-- Business Rules (**what** rules must be followed while building the product?).
-- User Requirements (**what tasks** end-users can do with the product?).
-- Functional Requirements (what the product should do or support).
-- Non-Functional Requirements (**how well** a product must perform, or the quality factor of the product).
+- **Business Requirements** (why the product should be done?).
+- **Business Rules** (what rules must be followed while building the product?).
+- **User Requirements** (what tasks end-users can do with the product?).
+- **Functional Requirements** (what the product should do or support).
+- **Non-Functional Requirements** (how well a product must perform, or the quality factor of the product).
 
 A very important section is the **development constraints requirements**
