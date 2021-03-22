@@ -52,7 +52,9 @@ By analyzing requirements, you make sure that all the requirements you created w
 
 ### Managing Requirements
 The most important aspect of managing requirements is that:
+
 **Each requirement needs to be referred to by the developers from many places, just like their code, tests, and change logs.**
+
 Meaning: When a requirement changes, everyone involved needs to know that it happened and to understand the impact on other requirements.
 
 
