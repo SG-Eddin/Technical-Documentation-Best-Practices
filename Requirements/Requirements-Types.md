@@ -13,7 +13,10 @@ This will help you to describe:
 
 Now, let's see the requirements' types that will bring these points together:
 
-- **Business Requirements** (why the product should be done?).
+```
+- **Business Requirements** 
+```
+- (why the product should be done?).
 - **Business Rules** (what rules must be followed while building the product?).
 - **User Requirements** (what tasks end-users can do with the product?).
 - **Functional Requirements** (what the product should do or support).
