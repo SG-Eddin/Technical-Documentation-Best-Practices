@@ -1,4 +1,4 @@
-# Writing Requirements
+# Requirements Overview
 Poor Requirements = Project Failure
 
 > **Requirements** helps to clearly define client needs, detects errors early before they become expensive to fix, and to ensure that the product you are developing meets the needs of your client.
@@ -26,7 +26,21 @@ the answer is **practicing requirements activities**.
 ```text
 Activities comes in the specification phase where you define what your product will do and how it will do it.
 ```
+### Eliciting Requirements
 In order to have better requirements, you - as a business analyst, product owner, or product manager - need to be more involved and interactive with your clients. This is called *requirement elicitation* and it is much better than *gathering* requirements (which is just taking a list of things they want), the difference is how you *interact* with the client.
+
+### Presenting Requirements
+Clients' needs (requirements) can be represented in few forms, most common of them:
+- Use Cases
+- User Stories
+- Story boards
+They can be textual or graphical, or both.
+
+### Prioritizing Requirements
+If you are working in a Scrum environment (even if you don't I think this is an important step), you need to prioritize the big requirement list of your client into:
+- Must Do
+- Should Do
+- Could Do
 
 
 ## Functional Requirements
@@ -52,8 +66,6 @@ The project is delivered but:
 > 
 > ![Why Software Projects Fail](https://user-images.githubusercontent.com/60129693/111956021-f447d880-8af2-11eb-83ef-b43410acd0ea.jpg)
 
-
-*Requirements are translations from users language to developers language.*
 
 ## Characteristics of Requirements
 There are some characteristics of good requirements, they should be:
