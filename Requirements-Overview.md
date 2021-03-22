@@ -48,6 +48,11 @@ While you are creating the list of requirements (that you will present to develo
 - Clear
 - Consistent
 > Refer to [Characteristics of Writing a Good Requirements](https://github.com/SG-Eddin/Technical-Documentation-Best-Practices/blob/main/Requirements-Writing.md#characteristics-of-requirements).
+By analyzing requirements, you make sure that all the requirements you created work well together and they accurately reflect the product which will be built.
 
+### Managing Requirements
+The most important aspect of managing requirements is that:
+> Each requirement needs to be referred to by the developers from many places, just like their code, tests, and change logs.
+Meaning: When a requirement changes, everyone involved needs to know that it happened and to understand the impact on other requirements.
 
 
