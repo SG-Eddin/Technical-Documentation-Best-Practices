@@ -1,4 +1,4 @@
-# End-User Documentation
+# End-user Documentation
 End-User documentation is a deliverable that introduces the software that was developed to users and how to use it.
 
 ## Types of End-User Documentation
