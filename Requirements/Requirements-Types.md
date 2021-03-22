@@ -11,7 +11,7 @@ This will help you to describe:
 
 Now, let's see the requirements' types that will bring these points together:
 
-1. ```Business Requirements```
+1. Business Requirements
 2. ```Business Rules``` What rules must be followed while building the product?
 3. ```User Requirements``` What tasks end-users can do with the product?
 4. ```Functional Requirements``` What the product should do or support?
@@ -19,5 +19,23 @@ Now, let's see the requirements' types that will bring these points together:
 6. ```Development Constraints Requirements```That outline the implementation technology, conventions, documentation, and the process which the team will use.
 
 ## Business Requirements
-Business requirements answer the question of *'Why the product should be created?'*
+Business requirements answer the question of *'Why the product should be created?'*. It outlines the purpose of a software project and the reason why the client wants this project.
+
+> The business requirement must define the tangible and quantifiable business value.
+> It is the way for business analysts to review the goals of the product.
+
+## Business Rules (restrictions)
+Business rules falls under the buisness requirements and are **more specific** than buisness requirements.
+> Business rules constrain how the product must function appropriately to serve the business need.
+
+Examples:
+- Privacy policy
+- Branding uniformity (the product must be developed to be visually consistent with other products of the client.
+- Government regulation (such as maintaining user data, things related to laws).
+
+## User Requirements
+
+
+
+
 
