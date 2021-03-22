@@ -22,11 +22,12 @@ By answering these questions, you will translate the clients' needs into develop
 To get the product done and managed right, the development team must have clear requirements to be planned, designed, implemented, and tested.
 
 How do you ensure that your requirements are done well?
-the answer is **practicing requirements activities**
+the answer is **practicing requirements activities**.
 ```text
-Activities comes in the specification phase where you define what your product will do and how it will do it
+Activities comes in the specification phase where you define what your product will do and how it will do it.
 ```
-In order to have better requirement, you - as a business analyst, product owner, or product manager - need to be more involved and interactive with your clients. This is called *requirement elicitation*.
+In order to have better requirements, you - as a business analyst, product owner, or product manager - need to be more involved and interactive with your clients. This is called *requirement elicitation* and it is much better than *gathering* requirements (which is just taking a list of things they want), the difference is how you *interact* with the client.
+
 
 ## Functional Requirements
 Functional requiremets are the product features or functions that the developers must implement too enable users to do stuff.
@@ -82,7 +83,7 @@ While writing, there are two perspectives to consider:
 User Perspective            |  system Perspective            
 ----------------------------|--------------------------------
 Writing what users expect from the product. | Happens in the back-end and the user doesn\t see it.
-**User type:** ```Actor name (ie. Administrator)``` | **Conditions:** ```when [some conditions are met]```
+**User type:** ```Actor name (i.e. Administrator)``` | **Conditions:** ```when [some conditions are met]```
 **Result:** ...shall be able to ```[do something]```| **Result:** ```the system shall [do something]```
 **Object:** ... ```[to something]```|
 **Qualifier:** *optional* ```[response time goal or quality object]```| **Qualifier:** *optional* ```[response time goal or quality object]```
