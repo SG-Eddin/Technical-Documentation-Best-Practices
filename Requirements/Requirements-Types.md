@@ -1,6 +1,4 @@
 # Requirements Types
-It was mentioned in [Presenting Requirements](https://github.com/SG-Eddin/Technical-Documentation-Best-Practices/blob/main/Requirements/Requirements-Overview.md#presenting-requirements) that you can present clients' needs in few forms. 
-
 To get the most out of the requirements, you need to think of it as:
 - A list of features which should be included in the final version of the product.
 - A let of description of how the product should perform in different situations.
