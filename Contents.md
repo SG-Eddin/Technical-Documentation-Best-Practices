@@ -4,4 +4,5 @@
   * [Requirements Overview](https://github.com/SG-Eddin/Technical-Documentation-Best-Practices/blob/main/Requirements/Requirements-Overview.md)
   * [Requirements Types](https://github.com/SG-Eddin/Technical-Documentation-Best-Practices/blob/main/Requirements/Requirements-Types.md)
   * [Requirements Writing](https://github.com/SG-Eddin/Technical-Documentation-Best-Practices/blob/main/Requirements/Requirements-Writing.md)
+* [Release Notes](https://github.com/SG-Eddin/Technical-Documentation-Best-Practices/blob/main/Release-Notes.md)
 
