@@ -49,7 +49,7 @@ A realse note documents the technical updates between two versions of the same s
 
 **Known Issues**
 ```text
-- List any bugs that are known ti exist when the software releases (Make sure they are resolved in subsequent releases).
+- List any bugs that are known to exist when the software releases (Make sure they are resolved in subsequent releases).
 ```
 
 **FAQs**
@@ -60,6 +60,6 @@ A realse note documents the technical updates between two versions of the same s
 **Other**
 *This part is optional and only added if there are changes since previous release.*
 ```text
-- system Requirements
+- System Requirements
 - Installation instructions
 ```
