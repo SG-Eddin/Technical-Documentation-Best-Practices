@@ -33,8 +33,8 @@ In order to have better requirements, you - as a business analyst, product owner
 Clients' needs (requirements) can be represented in few forms, most common of them:
 - Use Cases
 - User Stories
-- Story boards
-They can be textual or graphical, or both.
+- Story boards.
+Requirements representation can be textual or graphical, or both.
 
 ### Prioritizing Requirements
 If you are working in a Scrum environment (even if you don't I think this is an important step), you need to prioritize the big requirement list of your client into:
