@@ -8,7 +8,7 @@ There are three main goals in order to make a better software:
 - The right product
 - Done right
 - Managed right
-- 
+
 ## Right Product
 To identify the right product, you must understand the needs of your client, not only what they want.
 You need to understand:
@@ -20,6 +20,10 @@ By answering these questions, you will translate the clients' needs into develop
 
 ## Done Right, and Managed Right
 To get the product done and managed right, the development team must have clear requirements, to be planned, designed, implemented, and tested.
+
+How do you ensure that your requirements are done well?
+the answer is **practicing requirements activities**
+```Activities comes in the specification phase where you define what your product will do and how it will do it```
 
 ## Functional Requirements
 Functional requiremets are the product features or functions that the developers must implement too enable users to do stuff.
