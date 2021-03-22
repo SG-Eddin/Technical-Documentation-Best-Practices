@@ -22,12 +22,12 @@ The project is delivered but:
 
 *Requirements are translations from users language to developers language.*
 
-## Characteristics of requirements
+## Characteristics of Requirements
 There are some characteristics of good requirements, they should be:
 
 1. **Cohesive** Each requirement addresses only one thing.
 2. **Complete** All the information is in one place with no missing information or extension in emails...etc.
-3. **Consistent** Does not contradict with any other requirement, and consistent with all other docs.
+3. **Consistent** Does not contradict with any other requirement, and is consistent with all other documents.
 4. **Atomic** Does not contain conjunctions.
 ``` text
 Example:
@@ -54,4 +54,4 @@ Writing what users expect from the product. | Happens in the back-end and the us
 **Result:** ...shall be able to ```[do something]```| **Result:** ```the system shall [do something]```
 **Object:** ... ```[to something]```|
 **Qualifier:** *optional* ```[response time goal or quality object]```| **Qualifier:** *optional* ```[response time goal or quality object]```
-*Example:* The administrator shall be able to sign in into the system through admin creditials only | *Example:* When an online purchase is done, the system shall send SMS within 30 seconds
+*Example:* The administrator shall be able to sign in into the system through admin creditials only | *Example:* When an online purchase is done, the system shall send SMS within 30 seconds.
