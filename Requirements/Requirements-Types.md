@@ -35,6 +35,12 @@ Examples:
 - Government regulation (such as maintaining user data, things related to laws).
 
 ## User Requirements
+Outline what tasks end-users can do with the product and how they will engage with the product.
+It can be identified as the core requirements of the product being developed.
+
+> User requirement may be the most important requirement for the development team to get right.
+
+
 
 
 
