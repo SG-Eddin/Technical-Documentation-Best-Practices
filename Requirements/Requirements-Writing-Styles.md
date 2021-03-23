@@ -16,7 +16,9 @@ User stories are meant to keep all of the requirements of your system to a consi
 **Format:** ```As a <type of user>, I want to <task/function>, so that <reason>```
 
 **Examples:**
-1: *As a <**patient**>, I want <**to receive an SMS when my prescription is ready to pick up**>, so that <**I can avoid unnecessary waiting at the pharmacy**>*
-2: *As a <**pharmacist**>, I want to <**enroll a patient in the SMS notification service**>, so that <**they can receive notifications when their prescriptions are ready to pick up**>*
+
+> 1: *As a <**patient**>, I want <**to receive an SMS when my prescription is ready to pick up**>, so that <**I can avoid unnecessary waiting at the pharmacy**>*
+
+> 2: *As a <**pharmacist**>, I want to <**enroll a patient in the SMS notification service**>, so that <**they can receive notifications when their prescriptions are ready to pick up**>*
 
 **Benefits:**
