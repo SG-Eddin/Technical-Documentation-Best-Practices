@@ -59,7 +59,7 @@ Writing what users expect from the product. | Happens in the back-end and the us
 
 Do | Don't            
 ---|-------
-Use terms consistently. If you used a term like 'notifications' in a place, use it along the whole document and don't change it. | 
-Create a glossary to define terms |
-Use active voice |
-Avoid negation (without, cannot, ...etc.). Example: *Users ~~without~~ an account ~~cannot~~ log into the system.* Correction: *Only users with valid accounts can log into the system*
+Use terms consistently. If you used a term like 'notifications' in a place, use it along the whole document and don't change it. | Don't design the system (don't specify UI controls, types of controles, component names, or database fields). In the requirements phase, the focus is only on functionality and what the users need.
+Create a glossary to define terms. | Use vague terms (user-friendly, efficient, high-performance, approximately, several), instead, use terms that can be quantified.
+Use active voice. | Don't use terms like (usually, often, typically) 
+Avoid negation (without, cannot, ...etc.) to avoid confusion. Example: *Users ~~without~~ an account ~~cannot~~ log into the system.* Correction: *Only users with valid accounts can log into the system*. | Don't express possibilities (could, ought to, probably).
