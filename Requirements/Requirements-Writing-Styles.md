@@ -11,6 +11,8 @@ User story is one or more sentence(s) in a simple language or a business languag
 
 User stories are meant to keep all of the requirements of your system to a consistent format. They are easy to write, to read, and easy to evaluate.
 
+On a project, you and your team decide if this is the best way to follow.
+
 ### User Stories Structure and Design
 
 **Format:** ```As a <type of user>, I want to <task/function>, so that <reason>```
@@ -24,5 +26,13 @@ User stories are meant to keep all of the requirements of your system to a consi
 **Benefits:**
 Brief, understandable by users and developers, iterative, and easy to estimate effort.
 
-**Limitations**
-Lack non-functional details, and open to interpretation.
+**Limitations:**
+Lack of performance, non-functional details, and open to interpretation.
+
+### Display
+User stories are typically written on sticky notes and pasted on a wall or a board where the whole team can see them. 
+
+During the development phase, these sticky notes with the user stories are pasted on the backlog column, team members take off the sticky note (with the user story) and place it on a column of Work in Progress (WIP).
+
+This visualizes what's done, what's in progress, and what's not started.
+
