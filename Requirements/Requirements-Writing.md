@@ -59,5 +59,7 @@ Writing what users expect from the product. | Happens in the back-end and the us
 
 Do | Don't            
 ---|-------
-Use terms consistently.
-If you used a term like 'notifications' in a place, use it along the whole document and don't change it to another term(don't use a term then change it 
+Use terms consistently. If you used a term like 'notifications' in a place, use it along the whole document and don't change it. | 
+Create a glossary to define terms |
+Use active voice |
+Avoid negation (without, cannot, ...etc.). Example: *Users ~~without~~ an account ~~cannot~~ log into the system.* Correction: *Only users with valid accounts can log into the system*
