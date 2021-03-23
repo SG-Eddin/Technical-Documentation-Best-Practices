@@ -59,9 +59,7 @@ You have to be specific in taking requirement to avoid problems in planning.|
 One way to represent functional requirements is by using flow diagram.|
 ![Example of Flow diagram](https://user-images.githubusercontent.com/60129693/112129821-7bb74980-8bd0-11eb-9f25-d825061733c8.jpg) 
 
-![Alt Text](https://user-images.githubusercontent.com/60129693/112129821-7bb74980-8bd0-11eb-9f25-d825061733c8.jpg)
-
-
+![Picture2](https://user-images.githubusercontent.com/60129693/112130938-aa81ef80-8bd1-11eb-998e-ea9c4f016688.jpg)
 
 
 
