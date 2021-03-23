@@ -57,7 +57,10 @@ The behaviour that the product should do or support.|
 Expressed with **inputs** and **outputs** and a **description of the behaviour** itself. | 
 You have to be specific in taking requirement to avoid problems in planning.|
 One way to represent functional requirements is by using flow diagram.|
-![Example of Flow diagram]![Picture1](https://user-images.githubusercontent.com/60129693/112131120-def5ab80-8bd1-11eb-8e01-876c456e867e.jpg)
+![Example of Flow diagram]|
+![Picture22](https://user-images.githubusercontent.com/60129693/112131246-0ba9c300-8bd2-11eb-85a2-f2ac5dde77b9.png)
+
+
 
 
 
