@@ -17,8 +17,12 @@ User stories are meant to keep all of the requirements of your system to a consi
 
 **Examples:**
 
-> 1: *As a <**patient**>, I want <**to receive an SMS when my prescription is ready to pick up**>, so that <**I can avoid unnecessary waiting at the pharmacy**>*
+1: *As a <**patient**>, I want <**to receive an SMS when my prescription is ready to pick up**>, so that <**I can avoid unnecessary waiting at the pharmacy**>*
 
-> 2: *As a <**pharmacist**>, I want to <**enroll a patient in the SMS notification service**>, so that <**they can receive notifications when their prescriptions are ready to pick up**>*
+2: *As a <**pharmacist**>, I want to <**enroll a patient in the SMS notification service**>, so that <**they can receive notifications when their prescriptions are ready to pick up**>*
 
 **Benefits:**
+Brief, understandable by users and developers, iterative, and easy to estimate effort.
+
+**Limitations**
+Lack non-functional details, and open to interpretation.
