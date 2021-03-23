@@ -3,7 +3,7 @@ Poor Requirements = Project Failure
 
 > **Requirements** helps to clearly define client needs, detects errors early before they become expensive to fix, and to ensure that the product you are developing meets the needs of your client.
  
-There are three main goals in order to make a better software:
+There are three main goals to make a better software:
 - The right product
 - Done right
 - Managed right
