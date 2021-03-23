@@ -1,8 +1,5 @@
 # Writing Good Requirements
 
-## Functional Requirements
-Functional requiremets are the product features or functions that the developers must implement too enable users to do stuff.
-They describe the system beahviour under specific conditions.
 To build a successful requirement document, you need to understand what your users need, as it leads the project to be successful, challenged, or to fail.
 
 * **Successful**
