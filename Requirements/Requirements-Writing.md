@@ -11,7 +11,6 @@ To build a successful requirement document, you need to understand what your use
  3. Satisfactory results.
 
 * **Challenged:**
-
 The project is delivered but:
  1. Over time
  2. Over budget
@@ -19,8 +18,7 @@ The project is delivered but:
 
 ![Project Challenged Factors](https://user-images.githubusercontent.com/60129693/111955949-db3f2780-8af2-11eb-8906-57e526ebb3de.jpg)
 
-* **Failed** 
-
+* **Failed:** 
 The project is cancelled during the development cycle.
 
 ![Why Software Projects Fail](https://user-images.githubusercontent.com/60129693/111956021-f447d880-8af2-11eb-83ef-b43410acd0ea.jpg)
