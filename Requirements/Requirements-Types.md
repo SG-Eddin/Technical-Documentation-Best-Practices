@@ -58,10 +58,10 @@ Expressed with **inputs** and **outputs** and a **description of the behaviour**
 You have to be specific in taking requirement to avoid problems in planning.|
 One way to represent functional requirements is by using flow diagram.|
 ![Example of Flow diagram](https://user-images.githubusercontent.com/60129693/112129821-7bb74980-8bd0-11eb-9f25-d825061733c8.jpg) 
-![Alt Example of Flow diagram](https://user-images.githubusercontent.com/60129693/112129821-7bb74980-8bd0-11eb-9f25-d825061733c8.jpg)
 
 
 
+<img src="https://user-images.githubusercontent.com/60129693/112129821-7bb74980-8bd0-11eb-9f25-d825061733c8.jpg" width="100" height="100">
 
 
 
