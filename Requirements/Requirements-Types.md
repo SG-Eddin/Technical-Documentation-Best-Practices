@@ -41,6 +41,10 @@ It can be identified as the core requirements of the product being developed.
 
 > User requirement may be the most important requirement for the development team to get right.
 
+User Requirement can be presented in some forms such as:
+- Use Case
+- User Story
+- Story Boards
 
 
 
