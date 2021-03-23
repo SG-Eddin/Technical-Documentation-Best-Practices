@@ -46,6 +46,14 @@ User Requirement can be presented in some forms such as:
 - User Stories
 - Story Boards
 
+## Solution Requirements
+Solution requirements falls under the scope of the development team, they are:
+- Functional
+- Non-Functional
+
+  ### Functional Requirements
+
+
 
 
 
