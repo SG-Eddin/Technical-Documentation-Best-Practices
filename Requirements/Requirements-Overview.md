@@ -60,7 +60,7 @@ Meaning: When a requirement changes, everyone involved needs to know that it hap
 #### The Difference between Requirements and Design
 Requirements | Design 
 -------------|---------
-**What** do clients need the our team to develop for the product to succeed? | **How** will the development team implement the product to satisfy the clients' needs?
+**What** do clients need our team to develop for the product to succeed? | **How** will the development team implement the product to satisfy the clients' needs?
 
 
 
