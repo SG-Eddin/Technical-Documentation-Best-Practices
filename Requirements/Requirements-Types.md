@@ -12,12 +12,13 @@ This will help you to describe:
 Now, let's see the requirements' types that will bring these points together:
 
 1. [Business Requirements](https://github.com/SG-Eddin/Technical-Documentation-Best-Practices/blob/main/Requirements/Requirements-Types.md#business-requirements)
-2. [Business Rules](https://github.com/SG-Eddin/Technical-Documentation-Best-Practices/blob/main/Requirements/Requirements-Types.md#business-rules-restrictions)
-3. [User Requirements](https://github.com/SG-Eddin/Technical-Documentation-Best-Practices/blob/main/Requirements/Requirements-Types.md#user-requirements) 
-4. [Solution Requirements](https://github.com/SG-Eddin/Technical-Documentation-Best-Practices/blob/main/Requirements/Requirements-Types.md#solution-requirements)
+   - [Business Rules](https://github.com/SG-Eddin/Technical-Documentation-Best-Practices/blob/main/Requirements/Requirements-Types.md#business-rules-restrictions)
+2. [User Requirements](https://github.com/SG-Eddin/Technical-Documentation-Best-Practices/blob/main/Requirements/Requirements-Types.md#user-requirements) 
+3. [Solution Requirements](https://github.com/SG-Eddin/Technical-Documentation-Best-Practices/blob/main/Requirements/Requirements-Types.md#solution-requirements)
    - Functional Requirements. What the product should do or support?
    - Non-Functional Requirements. How well a product must perform (the quality factor of the product).
-5. [Development Constraints Requirements](https://github.com/SG-Eddin/Technical-Documentation-Best-Practices/blob/main/Requirements/Requirements-Types.md#development-constraints-requirements)
+4. [Development Constraints Requirements](https://github.com/SG-Eddin/Technical-Documentation-Best-Practices/blob/main/Requirements/Requirements-Types.md#development-constraints-requirements)
+5. Interface.
 
 ## Business Requirements
 Business requirements answer the question of *'Why the product should be created?'*. It outlines the purpose of a software project and the reason why the client wants this project.
@@ -25,7 +26,7 @@ Business requirements answer the question of *'Why the product should be created
 > The business requirement must define the tangible and quantifiable business value.
 > It is the way for business analysts to review the goals of the product.
 
-## Business Rules (restrictions)
+### Business Rules (restrictions)
 Business rules falls under the buisness requirements and are **more specific** than buisness requirements. 
 It answers the question of *'What rules must be followed while building the product?'*
 > Business rules constrain how the product must function appropriately to serve the business need.
