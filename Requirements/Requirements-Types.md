@@ -14,10 +14,10 @@ Now, let's see the requirements' types that will bring these points together:
 1. [Business Requirements](https://github.com/SG-Eddin/Technical-Documentation-Best-Practices/blob/main/Requirements/Requirements-Types.md#business-requirements)
 2. [Business Rules](https://github.com/SG-Eddin/Technical-Documentation-Best-Practices/blob/main/Requirements/Requirements-Types.md#business-rules-restrictions)
 3. [User Requirements](https://github.com/SG-Eddin/Technical-Documentation-Best-Practices/blob/main/Requirements/Requirements-Types.md#user-requirements) 
-4. Solution Requirements
+4. [Solution Requirements](https://github.com/SG-Eddin/Technical-Documentation-Best-Practices/blob/main/Requirements/Requirements-Types.md#solution-requirements)
    - Functional Requirements. What the product should do or support?
-   - Non-Functional Requirements. How well a product must perform, or the quality factor of the product?
-5. Development Constraints Requirements. That outline the implementation technology, conventions, documentation, and the process which the team will use.
+   - Non-Functional Requirements. How well a product must perform (the quality factor of the product).
+5. Development Constraints Requirements.
 
 ## Business Requirements
 Business requirements answer the question of *'Why the product should be created?'*. It outlines the purpose of a software project and the reason why the client wants this project.
@@ -58,6 +58,8 @@ Expressed with **inputs** and **outputs** and a **description of the behaviour**
 You have to be specific in taking requirement to avoid problems in planning.|
 One way to represent functional requirements is by using flow diagram which displays the data flow and dependencies of the system components as a whole and how individual components are stitched together. ![Example of Flow diagram](https://user-images.githubusercontent.com/60129693/112131246-0ba9c300-8bd2-11eb-85a2-f2ac5dde77b9.png)|
 
+## Development Constraints Requirements
+Outline the implementation technology, conventions, documentation, and the process which the team will use. Descussion which devices or platforms the development team will support.
 
 
 
