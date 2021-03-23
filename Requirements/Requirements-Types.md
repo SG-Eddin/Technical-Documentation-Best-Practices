@@ -51,9 +51,10 @@ Solution requirements falls under the scope of the development team, they are:
 - Functional
 - Non-Functional
 
+
 Functional Requirements | Non-Functional Requirement
 ------------------------|---------------------------
-The behaviour that the product should do or support.| Serves as a description of how well a product must perform. It is the quality factor of the product and sometimes referred to as the quality requirements.
+The product features or functions that the developers must implement to enable users to do stuff, they describe the system beahviour under specific conditions. | Serves as a description of how well a product must perform. It is the quality factor of the product and sometimes referred to as the quality requirements.
 Expressed with **inputs** and **outputs** and a **description of the behaviour** itself. | Are represented in: Accuracy and safety, Dependability, Security, Usability, Efficiency, Performance, Maintainability.
 You have to be specific in taking requirement to avoid problems in planning.|
 One way to represent functional requirements is by using flow diagram which displays the data flow and dependencies of the system components as a whole and how individual components are stitched together. ![Example of Flow diagram](https://user-images.githubusercontent.com/60129693/112131246-0ba9c300-8bd2-11eb-85a2-f2ac5dde77b9.png)|
