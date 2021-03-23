@@ -29,7 +29,7 @@ Activities comes in the specification phase where you define what your product w
 In order to have better requirements, you - as a business analyst, product owner, or product manager - need to be more involved and interactive with your clients. This is called *requirement elicitation* and it is much better than *gathering* requirements (which is just taking a list of things they want), the difference is how you *interact* with the client.
 
 ### Presenting Requirements
-Clients' needs (requirements) can be represented in few forms, most common of them:
+Clients' needs (requirements) can be represented to the team in some forms so that the whole team get the picture of the product, the relation of its tasks and functions. You can represent the clients' needs as:
 - Use Cases
 - User Stories
 - Story boards.
