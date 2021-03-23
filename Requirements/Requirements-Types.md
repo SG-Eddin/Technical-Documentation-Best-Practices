@@ -14,7 +14,7 @@ Now, let's see the requirements' types that will bring these points together:
 1. [Business Requirements](https://github.com/SG-Eddin/Technical-Documentation-Best-Practices/blob/main/Requirements/Requirements-Types.md#business-requirements)
 2. [Business Rules](https://github.com/SG-Eddin/Technical-Documentation-Best-Practices/blob/main/Requirements/Requirements-Types.md#business-rules-restrictions)
 3. [User Requirements](https://github.com/SG-Eddin/Technical-Documentation-Best-Practices/blob/main/Requirements/Requirements-Types.md#user-requirements) 
-4. Solution requirements
+4. Solution Requirements
    - Functional Requirements. What the product should do or support?
    - Non-Functional Requirements. How well a product must perform, or the quality factor of the product?
 5. Development Constraints Requirements. That outline the implementation technology, conventions, documentation, and the process which the team will use.
@@ -42,8 +42,8 @@ It can be identified as the core requirements of the product being developed.
 > User requirement may be the most important requirement for the development team to get right.
 
 User Requirement can be presented in some forms such as:
-- Use Case
-- User Story
+- Use Cases
+- User Stories
 - Story Boards
 
 
