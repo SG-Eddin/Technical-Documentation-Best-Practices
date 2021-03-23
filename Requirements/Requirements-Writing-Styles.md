@@ -12,4 +12,10 @@ User story is one or more sentence(s) in a simple language or a business languag
 User stories are meant to keep all of the requirements of your system to a consistent format. They are easy to write, to read, and easy to evaluate.
 
 ### User Stories Structure and Design
-Format: ```As a <type of user>, I want to <task/function>, so that <reason>```
+**Format:** ```As a <type of user>, I want to <task/function>, so that <reason>```
+-----------------------------------------------------------------------------------------------------
+Example 1: *As a <**patient**>, I want <**to receive an SMS when my prescription is ready to pick up**>, so that <**I can avoid unnecessary waiting at the pharmacy**>*
+
+Example 2: *As a <**pharmacist**>, I want to <**enroll a patient in the SMS notification service**>, so that <**they can receive notifications when their prescriptions are ready to pick up**>*
+------------------------------------------------------------------------------------------------------
+**Benefits:**
