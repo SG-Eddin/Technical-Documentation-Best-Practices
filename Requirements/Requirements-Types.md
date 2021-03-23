@@ -52,6 +52,7 @@ Solution requirements falls under the scope of the development team, they are:
 - Non-Functional
 
 Functional Requirements | Non-Functional Requirement
+------------------------|---------------------------
 The behaviour that the product should do or support.|
 Expressed with **inputs** and **outputs** and a **description of the behaviour** | 
 
