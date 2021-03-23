@@ -57,7 +57,7 @@ The most important aspect of managing requirements is that:
 
 Meaning: When a requirement changes, everyone involved needs to know that it happened and to understand the impact on other requirements.
 
-#### The Difference between Requirements and Design
+#### Requirements vs. Design
 Requirements | Design 
 -------------|---------
 **What** do clients need our team to develop for the product to succeed? | **How** will the development team implement the product to satisfy the clients' needs?
