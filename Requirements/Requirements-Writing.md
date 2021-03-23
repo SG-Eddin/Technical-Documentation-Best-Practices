@@ -54,3 +54,10 @@ Writing what users expect from the product. | Happens in the back-end and the us
 **Object:** ... ```[to something]```|
 **Qualifier:** *optional* ```[response time goal or quality object]```| **Qualifier:** *optional* ```[response time goal or quality object]```
 *Example:* The administrator shall be able to sign in into the system through admin creditials only | *Example:* When an online purchase is done, the system shall send SMS within 30 seconds.
+
+## Tips for Writing Clear Requirements
+
+Do | Don't            
+---|-------
+Use terms consistently.
+If you used a term like 'notifications' in a place, use it along the whole document and don't change it to another term(don't use a term then change it 
