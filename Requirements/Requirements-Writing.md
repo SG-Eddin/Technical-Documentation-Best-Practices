@@ -25,7 +25,7 @@ The project is cancelled during the development cycle.
 There are some characteristics of good requirements, they should be:
 
 1. **Cohesive:** Each requirement addresses only one thing.
-2. **Consise:** Don't ramble and write into the point.
+2. **Concise:** Don't ramble and write into the point.
 3. **Complete:** All the information is in one place with no missing information or extension in emails...etc.
 4. **Consistent:** Does not contradict with any other requirement, and is consistent with all other documents.
 5. **Atomic:** Does not contain conjunctions.
