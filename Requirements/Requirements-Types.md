@@ -61,7 +61,7 @@ One way to represent functional requirements is by using flow diagram.|
 
 
 
-<img src="https://user-images.githubusercontent.com/60129693/112129821-7bb74980-8bd0-11eb-9f25-d825061733c8.jpg" width="500" height="500">
+<img src="https://user-images.githubusercontent.com/60129693/112129821-7bb74980-8bd0-11eb-9f25-d825061733c8.jpg" width="200" height="400">
 
 
 
