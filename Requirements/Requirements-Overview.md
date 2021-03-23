@@ -1,7 +1,7 @@
 # Requirements Overview
 Poor Requirements = Project Failure
 
-> **Requirements** help to clearly define client needs, detects errors early before they become expensive to fix, and to ensure that the product you are developing meets the needs of your client.
+> **Requirements** help to clearly define client needs, and detects errors early before they become expensive to fix, and to ensure that the product you are developing meets the needs of your client.
  
 There are three main goals to be achieved to make a better software:
 - The right product
