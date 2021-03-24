@@ -80,7 +80,7 @@ Each use case is represented as a sequence of simple steps, beginning with a use
 
 ### Use Cases Structure and Design
 
-Format | Description
+Format |   
 -----|-------
 **Use Case Number:** | A unique identifier for this use case.
 **Title:** | An active-verb goal phrase that names the goal of the primary actor.
