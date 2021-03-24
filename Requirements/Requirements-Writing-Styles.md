@@ -62,5 +62,7 @@ Item | Description
 **Limitations:** | May lack details for implementation.
 
 > Auxiliary Verbs According to IEEE
+> Word | Indicates
+> -----|----------
 
 
