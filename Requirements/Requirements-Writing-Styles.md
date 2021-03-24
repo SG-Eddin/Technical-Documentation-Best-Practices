@@ -39,7 +39,7 @@ User stories are used with Acceptance Criteria which cerifies that the User Stor
 User Story | Acceptance Criteria
 ---------- | --------------------
 As a <**pharmacist**>, I want to <**enroll a patient in the SMS notification service**>, so that <**they can receive notifications when their prescriptions are ready to pick up**> | - A pharmacist must complete all the required fields before submitting the enrollment form.
-      | - Information from the form is stored in the enrollment database.
-      | - A confirmation SMS is sent to the patient upon successful enrollment.
-      | - A pharmacist can view the enrollment status of a patient.
+- Information from the form is stored in the enrollment database.
+- A confirmation SMS is sent to the patient upon successful enrollment.
+- A pharmacist can view the enrollment status of a patient.
 
