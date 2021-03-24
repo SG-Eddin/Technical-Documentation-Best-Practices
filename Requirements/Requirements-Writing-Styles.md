@@ -62,7 +62,13 @@ Item | Description
 **Limitations:** | May lack details for implementation.
 
 > Auxiliary Verbs According to IEEE
-> Word | Indicates
-> -----|----------
+> Word | Indicates | Example
+> -----|---------- | --------
+> Shall| Mandatory requirement = *is required to* | The user *shall* be able to log into the system.
+> Should | Preferred possibility among several options = *is recommended that* | The system *should* send a notification within 10 sec. (it could be 10 or 20 sec.)
+> May | A permissible course of action = *is permitted to* | The pharmacist *may* create multiple prescriptions.
+> Can | Used for statements of possibility and capability = *is able to* | The user *can* customize the profile page color.
+> Must | Only used to describe unavoidable situations (not mandatory requirements) = *is natural consequence of* | The system *must* stop sending SMS messages after 3 failed attempts.
+> Will | Only used in statements of fact (not mandatory requirements) = *it is true that* | The pharmacy web app. *will* require internet access.
 
 
