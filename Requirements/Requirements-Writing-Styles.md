@@ -71,4 +71,9 @@ Item | Description
 > Must | Only used to describe unavoidable situations (not mandatory requirements) = *is natural consequence of* | The system *must* stop sending SMS messages after 3 failed attempts.
 > Will | Only used in statements of fact (not mandatory requirements) = *it is true that* | The pharmacy web app. *will* require internet access.
 
+----------------------------------------------------------------------------------------------------------------------------------------------------
+## Use Cases
+
+
+
 
