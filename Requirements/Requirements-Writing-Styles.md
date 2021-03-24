@@ -57,4 +57,8 @@ Item | Description
 -----|-------
 **Format:** | ```<Subject (system/user) doing the action>```, ```<supplementary verb>```, ```<capability or functionality to be provided>```, ```<criterion that limits or further explains requirement>``` *(optional component).*
 **Example 1:** | *<**The Company**> <**shall**> <**develop an SMS notification system**> enabling patients to <**Receive alerts when their prescriptions are available to pick up**>*
+**Example 2:** | *<**The Pharmacy System**> <**shall**> provide the ability to <**enroll patients in a notification service**>*.
+**Benefits:** | Can be used to caputre requirements early in the project with details more than the user stories.
+**Limitations** | May lack details for implementation.
+
 
