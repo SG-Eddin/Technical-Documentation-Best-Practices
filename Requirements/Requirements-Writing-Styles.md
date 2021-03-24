@@ -24,12 +24,22 @@ On a project, you and your team decide if this is the best way to follow.
 **Examples 1:**| 1: *As a <**patient**>, I want <**to receive an SMS when my prescription is ready to pick up**>, so that <**I can avoid unnecessary waiting at the pharmacy**>*
 **Example 2:**| 2: *As a <**pharmacist**>, I want to <**enroll a patient in the SMS notification service**>, so that <**they can receive notifications when their prescriptions are ready to pick up**>*
 **Benefits:**| Brief, understandable by users and developers, iterative, and easy to estimate effort.
-**Limitations:**| Lack of performance, non-functional details, and open to interpretation.
+**Limitations:**| Lack of performance and non-functional details, and open to interpretation.
 
-### Display
+### Practice
 User stories are typically written on sticky notes and pasted on a wall or a board where the whole team can see them. 
 
 During the development phase, these sticky notes with the user stories are pasted on the backlog column, team members take off the sticky note (with the user story) and place it on a column of Work in Progress (WIP).
 
 This visualizes what's done, what's in progress, and what's not started.
+
+### Acceptance Criteria
+User stories are used with Acceptance Criteria which cerifies that the User Stories are complete or working as intended.
+*Example*:
+User Story | Acceptance Criteria
+---------- | --------------------
+As a <**pharmacist**>, I want to <**enroll a patient in the SMS notification service**>, so that <**they can receive notifications when their prescriptions are ready to pick up**> | - A pharmacist must complete all the required fields before submitting the enrollment form.
+  | - Information from the form is stored in the enrollment database.
+  | - A confirmation SMS is sent to the patient upon successful enrollment.
+  | - A pharmacist can view the enrollment status of a patient.
 
