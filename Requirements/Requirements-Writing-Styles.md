@@ -7,7 +7,7 @@ There is no right or wrong in choosing the style of writing the requirements. It
 
 - [User Stories](https://github.com/SG-Eddin/Technical-Documentation-Best-Practices/blob/main/Requirements/Requirements-Writing-Styles.md#user-stories)
 - [Traditional (Text-Based)](https://github.com/SG-Eddin/Technical-Documentation-Best-Practices/blob/main/Requirements/Requirements-Writing-Styles.md#traditional-text-based-requirements-structure-and-design)
-- Use Cases
+- [Use Cases](https://github.com/SG-Eddin/Technical-Documentation-Best-Practices/blob/main/Requirements/Requirements-Writing-Styles.md#use-cases)
 
 
 ## User Stories
@@ -74,6 +74,19 @@ Item | Description
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------
 ## Use Cases
+Use Case i s alist of actions or steps defining the interaction between a user and a system to achive a goal.
+AIt is a written description of how users will perform tasks on the system. It outlines, from a user's point of view, a system's behavior as it responds to a request.
+Each use case is represented as a sequence of simple steps, beginning with a user's goal and ending when that goal is fulfilled.
+
+### Use Cases Structure and Design
+
+Item | Description
+-----|-------
+**Format:** | **Use Case Number:** A unique identifier for this use case.
+.. | **Title:** An active-verb goal phrase that names the goal of the primary actor.
+.. | **Description:** Brief description and purpose of the use case.
+.. | **Actors:** All actors involved in the use case, both primary and secondary.
+.. | **Scope:** Name of system or subsystem defined by the use case.
 
 
 
