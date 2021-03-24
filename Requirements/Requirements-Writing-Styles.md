@@ -80,13 +80,13 @@ Each use case is represented as a sequence of simple steps, beginning with a use
 
 ### Use Cases Structure and Design
 
-Item | Description
+Format | Description
 -----|-------
-**Format:** | **Use Case Number:** A unique identifier for this use case.
-.. | **Title:** An active-verb goal phrase that names the goal of the primary actor.
-.. | **Description:** Brief description and purpose of the use case.
-.. | **Actors:** All actors involved in the use case, both primary and secondary.
-.. | **Scope:** Name of system or subsystem defined by the use case.
+**Use Case Number:** | A unique identifier for this use case.
+**Title:** | An active-verb goal phrase that names the goal of the primary actor.
+**Description:** | Brief description and purpose of the use case.
+**Actors:** | All actors involved in the use case, both primary and secondary.
+**Scope:** |  Name of system or subsystem defined by the use case.
 
 
 
