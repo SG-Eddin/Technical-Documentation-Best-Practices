@@ -6,8 +6,9 @@ There is no right or wrong in choosing the style of writing the requirements. It
 
 
 - [User Stories](https://github.com/SG-Eddin/Technical-Documentation-Best-Practices/blob/main/Requirements/Requirements-Writing-Styles.md#user-stories)
+- [Traditional (Text-Based](https://github.com/SG-Eddin/Technical-Documentation-Best-Practices/blob/main/Requirements/Requirements-Writing-Styles.md#traditional-text-based-requirements-structure-and-design)
 - Use Cases
-- Traditional
+
 
 ## User Stories
 In agile (and its frameworks: scrum and kanban): A user story is an informal, general explanation of a software feature written from the perspective of the end user or customer. The purpose of a user story is to articulate how a piece of work will deliver a particular value back to the customer.
