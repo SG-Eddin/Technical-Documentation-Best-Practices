@@ -19,12 +19,10 @@ On a project, you and your team decide if this is the best way to follow.
 
 ### User Stories Structure and Design
 
-Text 1| Text 2
-------|-------
 **Format:** | ```As a <type of user>, I want to <task/function>, so that <reason>```
-
-**Examples:** | 1: *As a <**patient**>, I want <**to receive an SMS when my prescription is ready to pick up**>, so that <**I can avoid unnecessary waiting at the pharmacy**>*
-              | 2: *As a <**pharmacist**>, I want to <**enroll a patient in the SMS notification service**>, so that <**they can receive notifications when their prescriptions are ready to pick up**>*
+------------|-------
+**Examples:**| 1: *As a <**patient**>, I want <**to receive an SMS when my prescription is ready to pick up**>, so that <**I can avoid unnecessary waiting at the pharmacy**>*
+             | 2: *As a <**pharmacist**>, I want to <**enroll a patient in the SMS notification service**>, so that <**they can receive notifications when their prescriptions are ready to pick up**>*
 
 **Benefits:** | Brief, understandable by users and developers, iterative, and easy to estimate effort.
 
