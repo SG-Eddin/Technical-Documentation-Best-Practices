@@ -27,7 +27,7 @@ On a project, you and your team decide if this is the best way to follow.
 **Limitations:**| Lack of performance and non-functional details, and open to interpretation.
 
 ### Practice
-User stories are typically written on sticky notes and pasted on a wall or a board where the whole team can see them. 
+User stories are typically written on cards or sticky notes and pasted on a wall or a board where the whole team can see them. 
 
 During the development phase, these sticky notes with the user stories are pasted on the backlog column, team members take off the sticky note (with the user story) and place it on a column of Work in Progress (WIP).
 
@@ -46,4 +46,13 @@ As a <**pharmacist**>, I want to <**enroll a patient in the SMS notification ser
 .. |- A pharmacist can view the enrollment status of a patient.
 
 --------------------------------------------------------------------------------------
+
+## Traditional (Text-Based)
+Traditional (text-based) requirements document business or functional specifications. They describe in detail what the business is expecting the technical team to provide.
+
+### UTraditional (Text-Based) Requirements Structure and Design
+
+**Format:** |```<Subject (system/user) doing the action>, <supplementary verb>, <capability or functionality to be provided>, <criterion that limits or further explains requirement> (optional component).```
+------------|-------
+Example 1: | * <**The Company**> <**shall**> <**develop an SMS notification system**> enabling patients to <**Receive alerts when their prescriptions are available to pick up**> *
 
