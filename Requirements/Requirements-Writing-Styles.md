@@ -1,7 +1,10 @@
 # Requirements Writing Styles
 There is no right or wrong in choosing the style of writing the requirements. It is based on the level of details and the specifications required by your project.
 
-- [User Stories](https://github.com/SG-Eddin/Technical-Documentation-Best-Practices/blob/main/Requirements/Requirements-Writing-Styles.md#user-stories)
+![Requirements styles](https://user-images.githubusercontent.com/60129693/112272420-d6aa7880-8c84-11eb-9b08-2d5dbcbeb020.png)
+
+
+- [](https://github.com/SG-Eddin/Technical-Documentation-Best-Practices/blob/main/Requirements/Requirements-Writing-Styles.md#user-stories)
 - Use Cases
 - Traditional
 
