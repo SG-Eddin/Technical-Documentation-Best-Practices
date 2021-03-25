@@ -6,7 +6,7 @@ There is no right or wrong in choosing the style of writing the requirements. It
 
 
 - [User Stories](https://github.com/SG-Eddin/Technical-Documentation-Best-Practices/blob/main/Requirements/Requirements-Writing-Styles.md#1-user-stories)
-- [Traditional (Text-Based)](https://github.com/SG-Eddin/Technical-Documentation-Best-Practices/blob/main/Requirements/Requirements-Writing-Styles.md#traditional-text-based-requirements-structure-and-design)
+- [Traditional (Text-Based)](https://github.com/SG-Eddin/Technical-Documentation-Best-Practices/blob/main/Requirements/Requirements-Writing-Styles.md#2-traditional-text-based)
 - [Use Cases](https://github.com/SG-Eddin/Technical-Documentation-Best-Practices/blob/main/Requirements/Requirements-Writing-Styles.md#use-cases)
 
 
