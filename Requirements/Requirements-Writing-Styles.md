@@ -5,9 +5,9 @@ There is no right or wrong in choosing the style of writing the requirements. It
 
 
 
-- [User Stories](https://github.com/SG-Eddin/Technical-Documentation-Best-Practices/blob/main/Requirements/Requirements-Writing-Styles.md#1-user-stories)
-- [Traditional (Text-Based)](https://github.com/SG-Eddin/Technical-Documentation-Best-Practices/blob/main/Requirements/Requirements-Writing-Styles.md#2-traditional-text-based)
-- [Use Cases](https://github.com/SG-Eddin/Technical-Documentation-Best-Practices/blob/main/Requirements/Requirements-Writing-Styles.md#3-use-cases)
+1. [User Stories](https://github.com/SG-Eddin/Technical-Documentation-Best-Practices/blob/main/Requirements/Requirements-Writing-Styles.md#1-user-stories)
+2. [Traditional (Text-Based)](https://github.com/SG-Eddin/Technical-Documentation-Best-Practices/blob/main/Requirements/Requirements-Writing-Styles.md#2-traditional-text-based)
+3. [Use Cases](https://github.com/SG-Eddin/Technical-Documentation-Best-Practices/blob/main/Requirements/Requirements-Writing-Styles.md#3-use-cases)
 
 
 ## 1. User Stories
@@ -82,9 +82,10 @@ Each use case is represented as a sequence of simple steps, beginning with a use
 
 The following figure shows the format of a Use Case.
 
-![Use Case Format](https://user-images.githubusercontent.com/60129693/112442850-f27d4f80-8d54-11eb-8808-e43def80a04c.png)
+![Use Case Format](https://user-images.githubusercontent.com/60129693/112454376-4a21b800-8d61-11eb-99d8-a17d898bf9ac.png)
 
 *Example:*
+![Use Case Scenario](https://user-images.githubusercontent.com/60129693/112455779-b4872800-8d62-11eb-9642-a022eb532cc4.png)
 
 
 
