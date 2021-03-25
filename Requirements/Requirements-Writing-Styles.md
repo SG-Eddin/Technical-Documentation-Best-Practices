@@ -10,7 +10,7 @@ There is no right or wrong in choosing the style of writing the requirements. It
 - [Use Cases](https://github.com/SG-Eddin/Technical-Documentation-Best-Practices/blob/main/Requirements/Requirements-Writing-Styles.md#use-cases)
 
 
-## User Stories
+## 1. User Stories
 In agile (and its frameworks: scrum and kanban): A user story is an informal, general explanation of a software feature written from the perspective of the end user or customer. The purpose of a user story is to articulate how a piece of work will deliver a particular value back to the customer.
 User story is one or more sentence(s) in a simple language or a business language that captures what users need to do.
 
@@ -49,7 +49,7 @@ As a <**pharmacist**>, I want to <**enroll a patient in the SMS notification ser
 
 --------------------------------------------------------------------------------------
 
-## Traditional (Text-Based)
+## 2. Traditional (Text-Based)
 Traditional (text-based) requirements document business or functional specifications. They describe in detail what the business is expecting the technical team to provide.
 
 ### Traditional (Text-Based) Requirements Structure and Design
@@ -73,7 +73,7 @@ Item | Description
 > Will | Only used in statements of fact (not mandatory requirements) = *it is true that* | The pharmacy web app. *will* require internet access.
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------
-## Use Cases
+## 3. Use Cases
 Use Case i s alist of actions or steps defining the interaction between a user and a system to achive a goal.
 AIt is a written description of how users will perform tasks on the system. It outlines, from a user's point of view, a system's behavior as it responds to a request.
 Each use case is represented as a sequence of simple steps, beginning with a user's goal and ending when that goal is fulfilled.
