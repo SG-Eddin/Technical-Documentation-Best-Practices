@@ -81,6 +81,7 @@ Each use case is represented as a sequence of simple steps, beginning with a use
 ### Use Cases Structure and Design
 
 The following figure shows the format of a Use Case.
+
 ![Use Case Format](https://user-images.githubusercontent.com/60129693/112442850-f27d4f80-8d54-11eb-8808-e43def80a04c.png)
 
 *Example:*
