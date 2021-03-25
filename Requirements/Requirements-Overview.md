@@ -21,10 +21,11 @@ By answering these questions, you will translate the clients' needs into develop
 To get the product done and managed right, the development team must have clear requirements to be planned, designed, implemented, and tested.
 
 How do you ensure that your requirements are done well?
-the answer is **practicing requirements activities**.
-```text
-Activities comes in the specification phase where you define what your product will do and how it will do it.
-```
+The answer is **practicing requirements activities**.
+
+> Activities comes in the specification phase where you define what your product will do and how it will do it.
+
+
 ### Eliciting Requirements
 In order to have better requirements, you - as a business analyst, product owner, or product manager - need to be more involved and interactive with your clients. This is called *requirement elicitation* and it is much better than *gathering* requirements (which is just taking a list of things they want), the difference is how you *interact* with the client.
 
