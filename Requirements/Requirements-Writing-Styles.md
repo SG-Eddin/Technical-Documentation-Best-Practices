@@ -23,8 +23,8 @@ On a project, you and your team decide if this is the best way to follow.
 Item | Description
 ------------|-------
 **Format:** | As a ```<type of user>```, I want to ```<task/function>```, so that ```<reason>```
-**Examples 1:**| 1: *As a <**patient**>, I want <**to receive an SMS when my prescription is ready to pick up**>, so that <**I can avoid unnecessary waiting at the pharmacy**>*
-**Example 2:**| 2: *As a <**pharmacist**>, I want to <**enroll a patient in the SMS notification service**>, so that <**they can receive notifications when their prescriptions are ready to pick up**>*
+**Examples 1:**| 1: *As a <**student**>, I want <**to receive an SMS when my certification is ready to pick up**>, so that <**I can avoid unnecessary waiting at the college**>*
+**Example 2:**| 2: *As a <**college administrator**>, I want to <**enroll a student in the SMS notification service**>, so that <**they can receive notifications when their certifications are ready to pick up**>*
 **Benefits:**| Brief, understandable by users and developers, iterative, and easy to estimate effort.
 **Limitations:**| Lack of performance and non-functional details, and open to interpretation.
 
@@ -54,8 +54,8 @@ Traditional (text-based) requirements document business or functional specificat
 Item | Description
 -----|-------
 **Format:** | ```<Subject (system/user) doing the action>```, ```<Auxiliary (supplementary) verb>```, ```<capability or functionality to be provided>```, *(optional component)* ```<criterion that limits or further explains requirement>```
-**Example 1:** | *<**The Company**> <**shall**> <**develop an SMS notification system**> enabling patients to <**Receive alerts when their prescriptions are available to pick up**>*
-**Example 2:** | *<**The Pharmacy System**> <**shall**> provide the ability to <**enroll patients in a notification service**>*.
+**Example 1:** | *<**The Company**> <**shall**> <**develop an SMS notification system**> enabling students to <**Receive alerts when their certifications are available to pick up**>*
+**Example 2:** | *<**The college System**> <**shall**> provide the ability to <**enroll students in a notification service**>*.
 **Benefits:** | Can be used to caputre requirements early in the project with details more than the user stories.
 **Limitations:** | May lack details for implementation.
 
@@ -64,10 +64,10 @@ Item | Description
 > -----|---------- | --------
 > Shall| Mandatory requirement = *is required to* | The user *shall* be able to log into the system.
 > Should | Preferred possibility among several options = *is recommended that* | The system *should* send a notification within 10 sec. (it could be 10 or 20 sec.)
-> May | A permissible course of action = *is permitted to* | The pharmacist *may* create multiple prescriptions.
+> May | A permissible course of action = *is permitted to* | The college administrator *may* generate multiple certificates.
 > Can | Used for statements of possibility and capability = *is able to* | The user *can* customize the profile page color.
 > Must | Only used to describe unavoidable situations (not mandatory requirements) = *is natural consequence of* | The system *must* stop sending SMS messages after 3 failed attempts.
-> Will | Only used in statements of fact (not mandatory requirements) = *it is true that* | The pharmacy web app. *will* require internet access.
+> Will | Only used in statements of fact (not mandatory requirements) = *it is true that* | The college web app. *will* require internet access.
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------
 ## 3. Use Cases
