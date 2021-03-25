@@ -1,4 +1,4 @@
-# Requirements Types
+# Requirements Writing Types
 To get the most out of the requirements, you need to think of it as:
 - A list of features which should be included in the final version of the product.
 - A let of description of how the product should perform in different situations.
@@ -20,11 +20,17 @@ Now, let's see the requirements' types that will bring these points together:
 4. [Development Constraints Requirements](https://github.com/SG-Eddin/Technical-Documentation-Best-Practices/blob/main/Requirements/Requirements-Types.md#development-constraints-requirements)
 5. Interface.
 
+-----------------------------------------------------------------------------------------------------------------------
+
 ## Business Requirements
-Business requirements answer the question of *'Why the product should be created?'*. It outlines the purpose of a software project and the reason why the client wants this project.
+Business requirements answer the question of *'Why the product should be created?'*. It outlines the purpose of a software project and the reason why the client wants this project for their business *not how*.
+
+- Business requirements are a high-level features of the system.
+- It is usually written in [Traditional (Text-Based) style](https://github.com/SG-Eddin/Technical-Documentation-Best-Practices/blob/main/Requirements/Requirements-Writing-Styles.md#2-traditional-text-based).
 
 > The business requirement must define the tangible and quantifiable business value.
 > It is the way for business analysts to review the goals of the product.
+
 
 ### Business Rules (restrictions)
 Business rules falls under the buisness requirements and are **more specific** than buisness requirements. 
@@ -35,6 +41,8 @@ Examples:
 - Privacy policy
 - Branding uniformity (the product must be developed to be visually consistent with other products of the client.
 - Government regulation (such as maintaining user data, things related to laws).
+
+----------------------------------------------------------------------------------------------------------------------
 
 ## User Requirements
 Outline what tasks end-users can do with the product and how they will engage with the product.
