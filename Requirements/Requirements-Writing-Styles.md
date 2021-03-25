@@ -80,18 +80,8 @@ Each use case is represented as a sequence of simple steps, beginning with a use
 
 ### Use Cases Structure and Design
 
-Use Case Number: *A unique identifier* | Title: *An active-verb goal phrase that names the goal of the primary actor.*
------|-------
-**Description:** | Brief description and purpose of the use case.
-**Actor(s):** | All actors involved in the use case, both primary and secondary.
-**Scope:** |  Name of system or subsystem defined by the use case.
-**Priority:** | How important is this requirement?
-**Assumptions:** | Any conditions presumed to be true.
-**Preconditions:** | State the system must be in for the use case to proceed.
-**Postconditions** | Changes in the environment as a result of the use case.
-**Trigger:** | What caused this use case to run.
-**Main Success Case Scenario:** | Step-by-step use case scenarion.
-**Alternative Flow** | Means of achieving the stated goal, including error conditions.
+![Use Case Format](https://user-images.githubusercontent.com/60129693/112442850-f27d4f80-8d54-11eb-8808-e43def80a04c.png)
+
 
 
 
