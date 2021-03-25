@@ -36,7 +36,7 @@ During the development phase, these sticky notes with the user stories are paste
 This visualizes what's done, what's in progress, and what's not started.
 
 ### Acceptance Criteria
-User stories are used with Acceptance Criteria which certifies that User Stories are complete or working as intended.
+User stories are created with Acceptance Criteria which certifies that User Stories are complete or working as intended.
 The Acceptance Criteria helps addressing some of User Stories' limitations such as the incomplete information or being limited and not clear how to be implemented correctly.
 
 *Example*:
