@@ -40,12 +40,9 @@ User stories are used with Acceptance Criteria which certifies that User Stories
 The Acceptance Criteria helps addressing some of User Stories' limitations such as the incomplete information or being limited and not clear how to be implemented correctly.
 
 *Example*:
-User Story | Acceptance Criteria
----------- | --------------------
-As a <**pharmacist**>, I want to <**enroll a patient in the SMS notification service**>, so that <**they can receive notifications when their prescriptions are ready to pick up**> | - A pharmacist must complete all the required fields before submitting the enrollment form.
-.. |- Information from the form is stored in the enrollment database.
-.. |- A confirmation SMS is sent to the patient upon successful enrollment.
-.. |- A pharmacist can view the enrollment status of a patient.
+
+![User Story Example](https://user-images.githubusercontent.com/60129693/112475368-6af60780-8d79-11eb-9a07-e384867b7390.png)
+
 
 --------------------------------------------------------------------------------------
 
