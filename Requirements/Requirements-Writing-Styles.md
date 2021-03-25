@@ -88,7 +88,7 @@ The following figure shows the format of a Use Case.
 #### Benefits and Limitations
 Benefits | Limitations
 ---------|------------
-Comprehensive, the most detailed between the styles. | Requires extensive maintenance and taking close care of details.
+Comprehensive, the most detailed between the mentioned requirements styles. | Requires extensive maintenance and taking close care of details.
 The research required at the beginning can be beneficial long term as it requires identification of alternatives scenarios and error cases which does not exist in the other styles that were presented. | Not suitable to agile development projects as it considered time consuming.
 
 
