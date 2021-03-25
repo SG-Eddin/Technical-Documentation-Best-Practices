@@ -91,10 +91,15 @@ The following figure shows the format of a Use Case.
 #### Benefits and Limitations
 Benefits | Limitations
 ---------|------------
-Comprehensive, the most detailed between the othe two styles. | Requires extensive maintenance.
-The research required at the beginning can be beneficial long term as it requires identification of alternatives scenarios and error cases which does not exist in the other styles that were presented. | Not suitable to agile development.
+Comprehensive, the most detailed between the styles. | Requires extensive maintenance and taking close care of details.
+The research required at the beginning can be beneficial long term as it requires identification of alternatives scenarios and error cases which does not exist in the other styles that were presented. | Not suitable to agile development projects as it considered time consuming.
 
+#### Presenting Use Cases
 
+*optional and based on experience*
+To advance presenting Use Cases, you can create a UML (Unified Modeling Language) diagram which is a visual language used in the software development that can be understandable for business users and anyone who wants to understand a system.
+This diagram happens during the elicitation of requirements, Use Cases are started as diagrams (see example), rather than writing the fully-written use cases.
+This visual modeling has the actors, high level requirements that represent what users can do with the system. Then during the project, you will refine these and write them as fully-written Use Cases as mentioned in the example.
 
 
 
