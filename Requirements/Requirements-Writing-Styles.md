@@ -85,8 +85,14 @@ The following figure shows the format of a Use Case.
 ![Use Case Format](https://user-images.githubusercontent.com/60129693/112454376-4a21b800-8d61-11eb-99d8-a17d898bf9ac.png)
 
 *Example:*
-![Use Case Scenario](https://user-images.githubusercontent.com/60129693/112455779-b4872800-8d62-11eb-9642-a022eb532cc4.png)
 
+![Use Case Scenario](https://user-images.githubusercontent.com/60129693/112456025-0039d180-8d63-11eb-96dd-745fbe01e409.png)
+
+#### Benefits and Limitations
+Benefits | Limitations
+---------|------------
+Comprehensive, the most detailed between the othe two styles. 
+The research required at the beginning can be beneficial long term as it requires identification of alternatives scenarios and error cases which does not exist in the other styles that were presented. | Requires extensive maintenance. Not suitable to agile development.
 
 
 
