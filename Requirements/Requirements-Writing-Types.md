@@ -28,6 +28,10 @@ Business requirements answer the question of *'Why the product should be created
 - Business requirements are a high-level features of the system.
 - It is usually written in [Traditional (Text-Based) style](https://github.com/SG-Eddin/Technical-Documentation-Best-Practices/blob/main/Requirements/Requirements-Writing-Styles.md#2-traditional-text-based).
 
+*Example:
+Provide an SMS notification system for college students.*
+
+> This type does not include an actor, just a capability.
 > The business requirement must define the tangible and quantifiable business value.
 > It is the way for business analysts to review the goals of the product.
 
@@ -44,16 +48,24 @@ Examples:
 
 ----------------------------------------------------------------------------------------------------------------------
 
-## User Requirements
+## User (Stakeholder) Requirements
 Outline what tasks end-users can do with the product and how they will engage with the product.
 It can be identified as the core requirements of the product being developed.
 
-> User requirement may be the most important requirement for the development team to get right.
+- Written from the prespective of the user.
 
-User Requirement can be presented in some forms such as:
-- Use Cases
-- User Stories
-- Story Boards
+- It is usually written in [Traditional (Text-Based) style](https://github.com/SG-Eddin/Technical-Documentation-Best-Practices/blob/main/Requirements/Requirements-Writing-Styles.md#2-traditional-text-based).
+
+*Example:
+A student shall be able to receive an SMS notification when their certificate is ready to pick up.*
+
+- User requirements can also be written in the form of a [User Story](https://github.com/SG-Eddin/Technical-Documentation-Best-Practices/blob/main/Requirements/Requirements-Writing-Styles.md#1-user-stories).
+
+*Example:
+As a student, I want to receive an SMS message when my certificate is ready so that I know when to go to the college to collect it.*
+
+> User requirement may be the most important requirement for the development team to get right.
+----------------------------------------------------------------------------------------------------------------
 
 ## Solution Requirements
 Solution requirements falls under the scope of the development team, they are:
