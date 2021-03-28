@@ -72,13 +72,30 @@ Solution requirements falls under the scope of the development team, they are:
 - Functional
 - Non-Functional
 
+### Functional Requirements
+
+- The product features or functions that the developers must implement to enable users to do stuff, they describe the system beahviour under specific conditions.
+- Expressed with **inputs** and **outputs** and a **description of the behaviour** itself.
+- You can represent functional requirements - visually - by using flow diagram which displays the data flow and dependencies of the system components as a whole and how individual components are stitched together. 
+![Picture1](https://user-images.githubusercontent.com/60129693/112746773-6156e480-8fb1-11eb-97be-3cf1521e194b.png)
+- Can be written as User Stories.
+> *Example: "As a college administrator, I want to update the student's phone number so that they can receive SMS messages"*
+
+- Can also be written as a Use Case.
+> *Example:*
+> ![Functional requirements](https://user-images.githubusercontent.com/60129693/112756320-eb6c7080-8fe4-11eb-9c24-51b27c816a50.jpg)
+
+
+
 
 Functional Requirements | Non-Functional Requirement
 ------------------------|---------------------------
-The product features or functions that the developers must implement to enable users to do stuff, they describe the system beahviour under specific conditions. | Serves as a description of how well a product must perform. It is the quality factor of the product and sometimes referred to as the quality requirements.
-Expressed with **inputs** and **outputs** and a **description of the behaviour** itself. | Are represented in: Accuracy and safety, Dependability, Security, Usability, Efficiency, Performance, Maintainability.
+ ...| Serves as a description of how well a product must perform. It is the quality factor of the product and sometimes referred to as the quality requirements.
+ ...| Are represented in: Accuracy and safety, Dependability, Security, Usability, Efficiency, Performance, Maintainability.
 You have to be specific in taking requirement to avoid problems in planning.|
-One way to represent functional requirements is by using flow diagram which displays the data flow and dependencies of the system components as a whole and how individual components are stitched together. ![Picture1](https://user-images.githubusercontent.com/60129693/112746773-6156e480-8fb1-11eb-97be-3cf1521e194b.png) |
+.. | ...
+... |
+ |
 
 ## Development Constraints Requirements
 Outline the implementation technology, conventions, documentation, and the process which the team will use. Descussion which devices or platforms the development team will support.
