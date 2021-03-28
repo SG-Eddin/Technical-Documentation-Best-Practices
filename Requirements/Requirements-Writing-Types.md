@@ -13,7 +13,7 @@ Now, let's see the requirements' types that will bring these points together:
 
 1. [Business Requirements](https://github.com/SG-Eddin/Technical-Documentation-Best-Practices/blob/main/Requirements/Requirements-Writing-Types.md#business-requirements)
    - [Business Rules](https://github.com/SG-Eddin/Technical-Documentation-Best-Practices/blob/main/Requirements/Requirements-Writing-Types.md#business-rules-restrictions)
-2. [User Requirements](https://github.com/SG-Eddin/Technical-Documentation-Best-Practices/blob/main/Requirements/Requirements-Writing-Types.md#user-requirements) 
+2. [User Requirements](https://github.com/SG-Eddin/Technical-Documentation-Best-Practices/blob/main/Requirements/Requirements-Writing-Types.md#user-stakeholder-requirements) 
 3. [Solution Requirements](https://github.com/SG-Eddin/Technical-Documentation-Best-Practices/blob/main/Requirements/Requirements-Writing-Types.md#solution-requirements)
    - Functional (What the product should do or support?)
    - Non-Functional (How well a product must perform (the quality factor of the product)?)
