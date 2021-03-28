@@ -49,7 +49,7 @@ Examples:
 ----------------------------------------------------------------------------------------------------------------------
 
 ## User (Stakeholder) Requirements
-Outline what tasks end-users can do with the product and how they will engage with the product.
+User Requirements outline what tasks end-users can do with the product and how they will engage with the product.
 It can be identified as the core requirements of the product being developed.
 
 - Written from the prespective of the user.
