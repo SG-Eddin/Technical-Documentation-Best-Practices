@@ -69,7 +69,7 @@ As a student, I want to receive an SMS message when my certificate is ready so t
 
 ## Solution Requirements
 Solution requirements falls under the scope of the development team, they are:
-- Functional
+- [Functional](https://github.com/SG-Eddin/Technical-Documentation-Best-Practices/blob/main/Requirements/Requirements-Writing-Types.md#functional-requirements)
 - Non-Functional
 
 ### Functional Requirements
@@ -84,26 +84,42 @@ Solution requirements falls under the scope of the development team, they are:
 *Example: "As a college administrator, I want to update the student's phone number so that they can receive SMS messages"*
 
 - Can also be written as a [Use Case](https://github.com/SG-Eddin/Technical-Documentation-Best-Practices/blob/main/Requirements/Requirements-Writing-Styles.md#3-use-cases).
--
+
 *Example:*
 
 ![Functional requirements](https://user-images.githubusercontent.com/60129693/112756320-eb6c7080-8fe4-11eb-9c24-51b27c816a50.jpg)
 
+- You have to be specific in taking requirement to avoid problems in planning.
+
+### Non-Functional Requirements
+- Serves as a description of how well a product must perform. It is the quality factor of the product and sometimes referred to as the quality, constraints, non-behavioral requirements.
+- Are represented in: Accuracy and safety, Dependability, Security, Usability, Efficiency, Performance, Maintainability.
+- Can be written in the three writing styles as the following examples:
+
+User Stories | Traditional (Text-Based) | Use Case
+-------------|---------|-------------
+As a college administrator, I want the system to display pages within 3 seconds of navigating so that I can do the task quickly and efficiently. | The system shall display all system pages within 3 seconds of user navigation to them. | Fill in the Use case form including the Use Case number, Title, Description,... etc. and then add a field of Non-Functional requirements *The system shall display all system pages within 3 seconds of user navigation.*
 
 
-
-Functional Requirements | Non-Functional Requirement
-------------------------|---------------------------
- ...| Serves as a description of how well a product must perform. It is the quality factor of the product and sometimes referred to as the quality requirements.
- ...| Are represented in: Accuracy and safety, Dependability, Security, Usability, Efficiency, Performance, Maintainability.
-You have to be specific in taking requirement to avoid problems in planning.|
-.. | ...
-... |
- |
-
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## Development Constraints Requirements
 Outline the implementation technology, conventions, documentation, and the process which the team will use. Descussion which devices or platforms the development team will support.
 
+------------------------------------------------------------------------------------------------------------
+
+## Interface Requirements
+Describes how a system will interact with another system; hardware, software, communication, and user interfaces.
+
+- It can be written as:
+  -Traditional (Text-Based) as in the following example:
+*The system shall send SMS messages by utilizing the SMS APIs*
+
+  - Use Case as in the following example:
+ Fill in the Use Case form and add a section for Interface: *The system shall send SMS messages using the SMS APIs.*
+
+- You can add wireframes or mockups, or a style guide to outline your requirements. 
+*Example:
+Red font for error messages, what shape of buttons... etc.
 
 
 
