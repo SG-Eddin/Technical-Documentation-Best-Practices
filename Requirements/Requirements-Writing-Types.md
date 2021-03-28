@@ -76,14 +76,17 @@ Solution requirements falls under the scope of the development team, they are:
 
 - The product features or functions that the developers must implement to enable users to do stuff, they describe the system beahviour under specific conditions.
 - Expressed with **inputs** and **outputs** and a **description of the behaviour** itself.
-- You can represent functional requirements - visually - by using flow diagram which displays the data flow and dependencies of the system components as a whole and how individual components are stitched together. 
+- You can represent functional requirements - visually - by using flow diagram which displays the data flow and dependencies of the system components as a whole and how individual components are stitched together.
+ 
 ![Picture1](https://user-images.githubusercontent.com/60129693/112746773-6156e480-8fb1-11eb-97be-3cf1521e194b.png)
+
 - Can be written as User Stories.
-> *Example: "As a college administrator, I want to update the student's phone number so that they can receive SMS messages"*
+*Example: "As a college administrator, I want to update the student's phone number so that they can receive SMS messages"*
 
 - Can also be written as a Use Case.
-> *Example:*
-> ![Functional requirements](https://user-images.githubusercontent.com/60129693/112756320-eb6c7080-8fe4-11eb-9c24-51b27c816a50.jpg)
+*Example:*
+
+![Functional requirements](https://user-images.githubusercontent.com/60129693/112756320-eb6c7080-8fe4-11eb-9c24-51b27c816a50.jpg)
 
 
 
