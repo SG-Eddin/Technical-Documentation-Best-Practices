@@ -70,7 +70,7 @@ As a student, I want to receive an SMS message when my certificate is ready so t
 ## Solution Requirements
 Solution requirements falls under the scope of the development team, they are:
 - [Functional](https://github.com/SG-Eddin/Technical-Documentation-Best-Practices/blob/main/Requirements/Requirements-Writing-Types.md#functional-requirements)
-- Non-Functional
+- [Non-Functional](https://github.com/SG-Eddin/Technical-Documentation-Best-Practices/blob/main/Requirements/Requirements-Writing-Types.md#non-functional-requirements)
 
 ### Functional Requirements
 
@@ -83,13 +83,14 @@ Solution requirements falls under the scope of the development team, they are:
 - Can be written as [User Stories](https://github.com/SG-Eddin/Technical-Documentation-Best-Practices/blob/main/Requirements/Requirements-Writing-Styles.md#1-user-stories).
 *Example: "As a college administrator, I want to update the student's phone number so that they can receive SMS messages"*
 
+- You have to be specific in taking requirement to avoid problems in planning.
+
 - Can also be written as a [Use Case](https://github.com/SG-Eddin/Technical-Documentation-Best-Practices/blob/main/Requirements/Requirements-Writing-Styles.md#3-use-cases).
 
 *Example:*
 
 ![Functional requirements](https://user-images.githubusercontent.com/60129693/112756320-eb6c7080-8fe4-11eb-9c24-51b27c816a50.jpg)
 
-- You have to be specific in taking requirement to avoid problems in planning.
 
 ### Non-Functional Requirements
 - Serves as a description of how well a product must perform. It is the quality factor of the product and sometimes referred to as the quality, constraints, non-behavioral requirements.
@@ -111,18 +112,11 @@ Outline the implementation technology, conventions, documentation, and the proce
 Describes how a system will interact with another system; hardware, software, communication, and user interfaces.
 
 - It can be written as:
-  -Traditional (Text-Based) as in the following example:
-  
-*The system shall send SMS messages by utilizing the SMS APIs*
+  -Traditional (Text-Based) as in the following example: *The system shall send SMS messages by utilizing the SMS APIs*
 
-  - Use Case as in the following example:
-  
- Fill in the Use Case form and add a section for Interface: *The system shall send SMS messages using the SMS APIs.*
+  - Use Case as in the following *example: Fill in the Use Case form and add a section for Interface: "The system shall send SMS messages using the SMS APIs."*
 
-- You can add wireframes or mockups, or a style guide to outline your requirements. 
-
-*Example:
-Red font for error messages, what shape of buttons... etc.*
+- You can add wireframes or mockups, or a style guide to outline your requirements. Example: *Red font for error messages, what shape of buttons... etc.*
 
 
 
