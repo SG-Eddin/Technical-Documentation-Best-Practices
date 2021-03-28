@@ -15,10 +15,10 @@ Now, let's see the requirements' types that will bring these points together:
    - [Business Rules](https://github.com/SG-Eddin/Technical-Documentation-Best-Practices/blob/main/Requirements/Requirements-Writing-Types.md#business-rules-restrictions)
 2. [User Requirements](https://github.com/SG-Eddin/Technical-Documentation-Best-Practices/blob/main/Requirements/Requirements-Writing-Types.md#user-stakeholder-requirements) 
 3. [Solution Requirements](https://github.com/SG-Eddin/Technical-Documentation-Best-Practices/blob/main/Requirements/Requirements-Writing-Types.md#solution-requirements)
-   - Functional (What the product should do or support?)
-   - Non-Functional (How well a product must perform (the quality factor of the product)?)
+   - [Functional](https://github.com/SG-Eddin/Technical-Documentation-Best-Practices/blob/main/Requirements/Requirements-Writing-Types.md#functional-requirements) (What the product should do or support?)
+   - [Non-Functional](https://github.com/SG-Eddin/Technical-Documentation-Best-Practices/blob/main/Requirements/Requirements-Writing-Types.md#non-functional-requirements) (How well a product must perform (the quality factor of the product)?)
 4. [Development Constraints Requirements](https://github.com/SG-Eddin/Technical-Documentation-Best-Practices/blob/main/Requirements/Requirements-Writing-Types.md#development-constraints-requirements)
-5. Interface.
+5. [Interface Requirements](https://github.com/SG-Eddin/Technical-Documentation-Best-Practices/blob/main/Requirements/Requirements-Writing-Types.md#interface-requirements)
 
 -----------------------------------------------------------------------------------------------------------------------
 
@@ -112,14 +112,17 @@ Describes how a system will interact with another system; hardware, software, co
 
 - It can be written as:
   -Traditional (Text-Based) as in the following example:
+  
 *The system shall send SMS messages by utilizing the SMS APIs*
 
   - Use Case as in the following example:
+  
  Fill in the Use Case form and add a section for Interface: *The system shall send SMS messages using the SMS APIs.*
 
 - You can add wireframes or mockups, or a style guide to outline your requirements. 
+
 *Example:
-Red font for error messages, what shape of buttons... etc.
+Red font for error messages, what shape of buttons... etc.*
 
 
 
