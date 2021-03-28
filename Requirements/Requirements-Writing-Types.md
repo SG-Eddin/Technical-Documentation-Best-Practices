@@ -86,6 +86,7 @@ Solution requirements falls under the scope of the development team, they are:
 - Can also be written as a [Use Case](https://github.com/SG-Eddin/Technical-Documentation-Best-Practices/blob/main/Requirements/Requirements-Writing-Styles.md#3-use-cases).
 -
 *Example:*
+
 ![Functional requirements](https://user-images.githubusercontent.com/60129693/112756320-eb6c7080-8fe4-11eb-9c24-51b27c816a50.jpg)
 
 
