@@ -80,12 +80,12 @@ Solution requirements falls under the scope of the development team, they are:
  
 ![Picture1](https://user-images.githubusercontent.com/60129693/112746773-6156e480-8fb1-11eb-97be-3cf1521e194b.png)
 
-- Can be written as User Stories.
+- Can be written as [User Stories](https://github.com/SG-Eddin/Technical-Documentation-Best-Practices/blob/main/Requirements/Requirements-Writing-Styles.md#1-user-stories).
 *Example: "As a college administrator, I want to update the student's phone number so that they can receive SMS messages"*
 
-- Can also be written as a Use Case.
+- Can also be written as a [Use Case](https://github.com/SG-Eddin/Technical-Documentation-Best-Practices/blob/main/Requirements/Requirements-Writing-Styles.md#3-use-cases).
+-
 *Example:*
-
 ![Functional requirements](https://user-images.githubusercontent.com/60129693/112756320-eb6c7080-8fe4-11eb-9c24-51b27c816a50.jpg)
 
 
