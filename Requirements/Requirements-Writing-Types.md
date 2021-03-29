@@ -113,11 +113,14 @@ Describes how a system will interact with another system; hardware, software, co
 
 - It can be written as:
 
-  - Traditional (Text-Based) as in the following example: *The system shall send SMS messages by utilizing the SMS APIs*
+  - Traditional (Text-Based) as in the following example: 
+    *The system shall send SMS messages by utilizing the SMS APIs*
 
-  - Use Case as in the following *example: Fill in the Use Case form and add a section for Interface: "The system shall send SMS messages using the SMS APIs."*
+  - Use Case as in the following example: 
+    *Fill in the Use Case form and add a section for Interface: "The system shall send SMS messages using the SMS APIs."*
 
-- You can add wireframes or mockups, or a style guide to outline your requirements. Example: *Red font for error messages, what shape of buttons... etc.*
+- You can add wireframes or mockups, or a style guide to outline your requirements. 
+   Example: *Red font for error messages, what shape of buttons... etc.*
 
 
 
