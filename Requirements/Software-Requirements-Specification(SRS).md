@@ -16,7 +16,7 @@ Description of a software system to be developed. It ties together the requireme
 - **Introduction**
   - Purpose of the document
   - Document Conventions *(naming or formating)*
-  - Intended Audience *(Stakeholders, the Dev. team, project managers)
+  - Intended Audience *(Stakeholders, the Dev. team, project managers)*
   - Project Scope *(is it for the entire system or just one component)*
   - References *(references to other documents or external materials)*
 
