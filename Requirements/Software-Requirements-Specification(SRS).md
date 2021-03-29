@@ -11,9 +11,7 @@ Description of a software system to be developed. It ties together the requireme
 
 ### SRS Example (template from [IEEE](https://www.ieee.org/))
 - **Table of Contents**
-- **Revision History**
-
-  *Who made the change, when they made it, and what the change was.*
+- **Revision History** (*Who made the change, when they made it, and what the change was.*)
   
 - **Introduction**
   - Purpose of the document
@@ -23,10 +21,34 @@ Description of a software system to be developed. It ties together the requireme
   - References *(references to other documents or external materials)*
 
 - **Overall Description**
-  - Product Perspective
-  - Product Functions
+  - Product Perspective (context or origin of the system)
+  - Product Functions (major functions that the system will perform)
   - User Classes and Characteristics
-  - Operating Environment
+  - Operating Environment (on which the system will run)
   - Design and Implementation Constraints
-  - User Documentation
+  - User Documentation (what type of the documentation will be delivered with the software?
   - Assumptions and Dependencies
+
+> In the following sections, you can use: user stories, text-based requirements or use cases mentioned in the earlier documents.
+
+- ** External Interface Requirements**
+  - User Interfaces
+  - Hardware Interfaces (describe any device required, ...etc.)
+  - Software Interfaces (describe browsers, databases, APIs, ...etc.)
+  - Communications Interfaces (communication functions of the system such as Emails, SMS, ...etc.)
+
+- **Functional Requirements** (the fuctions of the system and its components including inputs, outputs and behaviour)
+  - System Feature 1
+  - System Feature 2
+  - ....
+ 
+ - **Non-Functional Requirements**
+   - Performance
+   - Safety
+   - Security
+   - Quality
+   ... etc.
+   
+  - **Other Requirements**
+
+- **Glossary**
