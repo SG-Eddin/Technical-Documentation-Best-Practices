@@ -10,16 +10,23 @@ Description of a software system to be developed. It ties together the requireme
 - Provides a platform for ongoing refinement (if questions came up or the team found something missing or incomplete, they can refer back to the SRS and build on it.
 
 ### SRS Example (template from [IEEE](https://www.ieee.org/))
-- Table of Contents.
-- Revision History.
+- **Table of Contents**
+- **Revision History**
 
   *Who made the change, when they made it, and what the change was.*
   
-- Introduction
+- **Introduction**
   - Purpose of the document
   - Document Conventions *(naming or formating)*
   - Intended Audience *(Stakeholders, the Dev. team, project managers)
   - Project Scope *(is it for the entire system or just one component)*
   - References *(references to other documents or external materials)*
 
-- Overall Description
+- **Overall Description**
+  - Product Perspective
+  - Product Functions
+  - User Classes and Characteristics
+  - Operating Environment
+  - Design and Implementation Constraints
+  - User Documentation
+  - Assumptions and Dependencies
