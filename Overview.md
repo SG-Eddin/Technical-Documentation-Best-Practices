@@ -1,5 +1,7 @@
 # Technical Documentation Overview
 
+### Definition
+
 Technical Documentation / Technical Writing fall under *Technical Communication* which is broadly defined by the [Society of Technical Communication](https://www.stc.org/about-stc/defining-technical-communication/) as:
 
 Any form of communication that shows one or more of the following qualities:
@@ -7,6 +9,8 @@ Any form of communication that shows one or more of the following qualities:
 - Communicating about technical or specialized topics, such as computer applications, medical procedures, or environmental regulations.
 - Communicating by using technology, such as web pages, help files, or social media sites.
 - Providing instructions about how to do something, regardless of how technical the task is or even if technology is used to create or distribute that communication.
+
+### Value
 
 The value that technical communicators deliver is twofold: They make information more useable and accessible to those who need that information, and in doing so, they advance the goals of the companies or organizations that employ them.
 
@@ -20,3 +24,9 @@ The following examples illustrate the value of the products technical communicat
 - Well-designed websites make it easier for users to find information, increasing user traffic to and satisfaction with those websites.
 - Technical illustrations clarify steps or identify the parts of a product, letting users focus on getting their task done quickly or more accurately.
 - Usability studies uncover problems with how products present themselves to users, helping those products become more user friendly.
+
+### Benefits
+
+Technical writers have the great benefit of becoming lifelong learners. 
+In order to communicate the content, you must be (or become) well-versed in that field. Therefore, with each new technical document, you will become an expert on that subject.
+
