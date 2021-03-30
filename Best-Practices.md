@@ -21,6 +21,7 @@ So, writing a software technical report for software engineers is different from
 
 
 2. **Determine what your audience needs to learn.**
+
 Write down a list of the things your target audience needs to perform. Examples:
 - Create an account.
 - Add a new request.
@@ -28,6 +29,7 @@ Write down a list of the things your target audience needs to perform. Examples:
 
 
 3. **Simple words**
+
 English is not the native language of all technical readers. Therefore, use simple words over complex words. Avoid using complex English words.
 
 
