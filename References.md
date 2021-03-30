@@ -8,3 +8,5 @@
 - Technical Writing Documentation on Software Products (Course).
 
 - [Usability.gov](https://www.usability.gov/)
+
+[Society for Technical Communication: Defining Technical Communication](https://www.stc.org/about-stc/defining-technical-communication/)
