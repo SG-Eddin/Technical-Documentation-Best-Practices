@@ -1,4 +1,4 @@
-# Technical Documentation Overview
+# Technical Documentation / Writing Overview
 
 Technical writing is not just about understanding technical information and recording it in a document, technical writing takes high-level information and processes it into digestible content for a specific audience
 
