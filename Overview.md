@@ -49,5 +49,14 @@ Documentiation that the team produces depends on the software development approa
 - **The Agile approach**: Doesn’t require comprehensive documentation at the beginning. One of the Agile Manifesto values suggests, putting – “working software over comprehensive documentation -“, the idea is to produce documentation with information that is essential to move forward, when it makes the most sense.
 
 
-### Project Documentation Types
+### Software Documentation Classifications
+
+Software documentation can be devided into two main categories:
+- Product documentation
+- Process documentation
+
+![Software documentation used in Agile (Small image)](https://user-images.githubusercontent.com/60129693/113143472-77240e00-922c-11eb-9fd6-3f8d21d7d1cd.png)
+
+
+  - **Product documentation**
 
