@@ -34,7 +34,7 @@ English is not the native language of all technical readers. Therefore, use simp
 
 ---------------------------------------------------------------------------------------------------
 
-## Words
+## Use of Words
 The best paragraphs are short and to the point. You can do that by following these points:
 
 1. **Define new / unfamiliar terms**
@@ -46,7 +46,13 @@ The best paragraphs are short and to the point. You can do that by following the
    - When you first write an unfamiliar acronym in your document, write the full term, and then put the acronym in parentheses. 
    - Do not cycle back-and-forth between the acronym and the expanded version in the same document.
 
-Example: *This document explains the Work Breakdown Structure (WBS) that project managers will use.*
+Example: *This document explains the Work Breakdown Structure (WBS) that project managers will use. WBS is one of the most important project management documents*
 
-4. 
+4. **It and They**
+
+These pronouns cause the most confusion in technical documentation:
+    - it
+    - they, them, and their
+
+
 
