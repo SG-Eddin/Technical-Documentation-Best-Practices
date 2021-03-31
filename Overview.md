@@ -32,12 +32,22 @@ The following examples illustrate the value of the products technical communicat
 Technical writers have the great benefit of becoming lifelong learners. 
 In order to communicate the content, you must be (or become) well-versed in that field. Therefore, with each new technical document, you will become an expert on that subject.
 
-### Project Documentation
+------------------------------------------------------------------------------------------------------------
 
-There are different types of documents created through the software development lifecycle (SDLC). These documents explain the product functions, unify project-related information, and allow discussion between stakeholders and developers.
+## Project Documentation
+
+There are different types of documents produced through the software development lifecycle (SDLC). These documents explain the product functions, unify project-related information, and allow discussion between stakeholders and developers.
 
 ![Project-documentation (stages and purpose) 1](https://user-images.githubusercontent.com/60129693/113131069-05909380-921d-11eb-87af-eeaf410a1f1a.png)
 
+### Development Approaches and Documentation
+
+Documentiation that the team produces depends on the software development approach that the team chose, whether Waterfall or Agile. Each of these approaches has a unique documentation technique:
+
+- **The Waterfall approach**: Teams create detailed documentation before any of the engineering stages begin.
+-
+- **The Agile approach**: Doesn’t require comprehensive documentation at the beginning. One of the Agile Manifesto values suggests, putting – “working software over comprehensive documentation -“, the idea is to produce documentation with information that is essential to move forward, when it makes the most sense.
 
 
+### Project Documentation Types
 
