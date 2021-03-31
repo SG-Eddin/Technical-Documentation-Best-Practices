@@ -58,7 +58,20 @@ Software documentation can be devided into two main categories:
 ![Software documentation used in Agile (Small image)](https://user-images.githubusercontent.com/60129693/113143472-77240e00-922c-11eb-9fd6-3f8d21d7d1cd.png)
 
 
-  - **Product documentation**
+ #### Product Documentation
 
+Describes the product that will be developed and provides instructions on how to perform the tasks needed.
 
-
+Product documentation includes:
+- **System documentation**: describe the system itself for the team through the following documents:
+  - Requirements
+  - Design and architecture
+  - Roadmaps (in Agile)
+  - Code documentation
+  - User experience design
+  - Testing documents
+  - Help and maintenance
+  
+- **[End-User documentation](https://github.com/SG-Eddin/Technical-Documentation-Best-Practices/tree/main/EndUser-Documentation)**: created for the product users according to their privilege:
+  - End-users
+  - System administrators
