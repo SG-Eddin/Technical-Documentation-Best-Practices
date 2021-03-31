@@ -32,5 +32,16 @@ Write down a list of the things your target audience needs to perform. Examples:
 
 English is not the native language of all technical readers. Therefore, use simple words over complex words. Avoid using complex English words.
 
+---------------------------------------------------------------------------------------------------
+
+## Words
+The best paragraphs are short and to the point. You can do that by following these points:
+
+1. **Define new / unfamiliar terms**
+2. **Use terms consistently**
+Don't change the a word you used at the beggining of your document.
+If you rename a term in the middle of a document, your ideas won't compile (in your users' head)
+4. **Acronyms**
+When you first write an unfamiliar acronym in your document, write the full term, and then put the acronym in parentheses.
 
 
