@@ -39,9 +39,8 @@ The best paragraphs are short and to the point. You can do that by following the
 
 1. **Define new / unfamiliar terms**
 2. **Use terms consistently**
-
-Use the same term consistently throughout your document. Once you've named a component, don't rename it.
-If you rename a term in the middle of a document, your ideas won't compile (in your users' head).
+  - Use the same term consistently throughout your document. Once you've named a component, don't rename it.
+  - If you rename a term in the middle of a document, your ideas won't compile (in your users' head).
 
 3. **Acronyms**
    - When you first write an unfamiliar acronym in your document, write the full term, and then put the acronym in parentheses. 
@@ -49,4 +48,5 @@ If you rename a term in the middle of a document, your ideas won't compile (in y
 
 Example: *This document explains the Work Breakdown Structure (WBS) that project managers will use.*
 
+4. 
 
