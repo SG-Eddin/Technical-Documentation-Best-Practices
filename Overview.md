@@ -24,7 +24,6 @@ The following examples illustrate the value of the products technical communicat
 - Software instructions help users be more successful on their own, improving how easily those products gain acceptance into the marketplace and reducing costs to support them.
 - Functional specifications and proposals help one group of technical experts communicate effectively with other technical experts, speeding up development cycles, reducing rework caused by misunderstandings, and eliminating risks associated with miscommunication.
 - Training programs provide people with new or improved skills, making them more employable and their organizations and products more efficient and safe.
-- Well-designed websites make it easier for users to find information, increasing user traffic to and satisfaction with those websites.
 - Technical illustrations clarify steps or identify the parts of a product, letting users focus on getting their task done quickly or more accurately.
 - Usability studies uncover problems with how products present themselves to users, helping those products become more user friendly.
 
@@ -32,4 +31,11 @@ The following examples illustrate the value of the products technical communicat
 
 Technical writers have the great benefit of becoming lifelong learners. 
 In order to communicate the content, you must be (or become) well-versed in that field. Therefore, with each new technical document, you will become an expert on that subject.
+
+### Project Documentation
+
+There are different types of documents created through the software development lifecycle (SDLC). These documents explain the product functions, unify project-related information, and allow discussion between stakeholders and developers.
+
+![Project-documentation (stages and purpose)](https://user-images.githubusercontent.com/60129693/113129789-9c5c5080-921b-11eb-8e02-7655b63bbdd3.png)
+
 
