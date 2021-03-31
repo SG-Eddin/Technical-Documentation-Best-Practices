@@ -1,4 +1,4 @@
-# Technical Documentation / Writing, an Overview
+# Technical Documentation / Writing
 
 Technical documentation in software engineering includes all written documents and materials dealing with software product development
 Technical writing is not just about understanding technical information and recording it in a document, technical writing takes high-level information and processes it into digestible content for a specific audience
