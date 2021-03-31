@@ -28,7 +28,7 @@ Write down a list of the things your target audience needs to perform. Examples:
 - Edit page settings.
 
 
-3. **USe simple words**
+3. **Use simple words**
 
 English is not the native language of all technical readers. Therefore, use simple words over complex words. Avoid using complex English words.
 
