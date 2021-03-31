@@ -45,14 +45,13 @@ There are different types of documents produced through the software development
 Documentiation that the team produces depends on the software development approach that the team chose, whether Waterfall or Agile. Each of these approaches has a unique documentation technique:
 
 - **The Waterfall approach**: Teams create detailed documentation before any of the engineering stages begin.
--
 - **The Agile approach**: Doesn’t require comprehensive documentation at the beginning. One of the Agile Manifesto values suggests, putting – “working software over comprehensive documentation -“, the idea is to produce documentation with information that is essential to move forward, when it makes the most sense.
 
 
 ### Software Documentation Classifications
 
 Software documentation can be devided into two main categories:
-- Product documentation
+- [Product documentation](https://github.com/SG-Eddin/Technical-Documentation-Best-Practices/blob/main/About-Technical-Documentation.md#product-documentation)
 - Process documentation
 
 ![Software documentation used in Agile (Small image)](https://user-images.githubusercontent.com/60129693/113143472-77240e00-922c-11eb-9fd6-3f8d21d7d1cd.png)
@@ -63,7 +62,7 @@ Software documentation can be devided into two main categories:
 Describes the product that will be developed and provides instructions on how to perform the tasks needed.
 
 Product documentation includes:
-- **System documentation**: describe the system itself for the team through the following documents:
+- **[System documentation](https://github.com/SG-Eddin/Technical-Documentation-Best-Practices/tree/main/System-Documentation.md)**: describe the system itself for the team through the following documents:
   - [Requirements](https://github.com/SG-Eddin/Technical-Documentation-Best-Practices/tree/main/System-Documentation.md/Requirements.md)
   - Design and architecture
   - Roadmaps (in Agile)
