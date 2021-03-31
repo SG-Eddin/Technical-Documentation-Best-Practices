@@ -64,4 +64,3 @@ Requirements | Design
 **What** do clients need our team to develop for the product to succeed? | **How** will the development team implement the product to satisfy the clients' needs?
 
 
-
