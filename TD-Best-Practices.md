@@ -51,6 +51,7 @@ Example: *This document explains the Work Breakdown Structure (WBS) that project
 4. **It and They**
 
 These pronouns cause the most confusion in technical documentation:
+
     - it
     - they, them, and their
 
