@@ -49,6 +49,7 @@ The best paragraphs are short and to the point. You can do that by following the
 Example: *This document explains the Work Breakdown Structure (WBS) that project managers will use. WBS is one of the most important project management documents*
 
 4. **It and They**
+
 These pronouns cause the most confusion in technical documentation:
     - it
     - they, them, and their
