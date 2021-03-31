@@ -36,6 +36,7 @@ In order to communicate the content, you must be (or become) well-versed in that
 
 There are different types of documents created through the software development lifecycle (SDLC). These documents explain the product functions, unify project-related information, and allow discussion between stakeholders and developers.
 
-![Project-documentation (stages and purpose)](https://user-images.githubusercontent.com/60129693/113129789-9c5c5080-921b-11eb-8e02-7655b63bbdd3.png)
+![Project-documentation (stages and purpose) 1](https://user-images.githubusercontent.com/60129693/113130973-e8f45b80-921c-11eb-9864-138978204c07.png)
+
 
 
