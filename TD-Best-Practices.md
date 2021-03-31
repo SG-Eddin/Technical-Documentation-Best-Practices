@@ -43,14 +43,13 @@ The best paragraphs are short and to the point. You can do that by following the
   - If you rename a term in the middle of a document, your ideas won't compile (in your users' head).
 
 3. **Acronyms**
-   - When you first write an unfamiliar acronym in your document, write the full term, and then put the acronym in parentheses. 
-   - Do not cycle back-and-forth between the acronym and the expanded version in the same document.
+  - When you first write an unfamiliar acronym in your document, write the full term, and then put the acronym in parentheses. 
+  - Do not cycle back-and-forth between the acronym and the expanded version in the same document.
 
 Example: *This document explains the Work Breakdown Structure (WBS) that project managers will use. WBS is one of the most important project management documents*
 
 4. **It and They**
-
-These pronouns cause the most confusion in technical documentation:
+- These pronouns cause the most confusion in technical documentation:
     - it
     - they, them, and their
 
