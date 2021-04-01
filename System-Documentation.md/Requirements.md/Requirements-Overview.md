@@ -57,6 +57,8 @@ The most important aspect of managing requirements is that:
 **Each requirement needs to be referred to by the developers from many places, just like their code, tests, and change logs.**
 
 Meaning: When a requirement changes, everyone involved needs to know that it happened and to understand the impact on other requirements.
+
+
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 #### Requirements vs. Design
