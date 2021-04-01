@@ -57,10 +57,18 @@ The most important aspect of managing requirements is that:
 **Each requirement needs to be referred to by the developers from many places, just like their code, tests, and change logs.**
 
 Meaning: When a requirement changes, everyone involved needs to know that it happened and to understand the impact on other requirements.
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 #### Requirements vs. Design
 Requirements | Design 
 -------------|---------
 **What** do clients need our team to develop for the product to succeed? | **How** will the development team implement the product to satisfy the clients' needs?
+
+#### Requirements vs. Specifications
+
+Requirements | Specifications
+-------------|----------------
+They outline ***what*** the software must do. | They outline ***how*** the software will be created
+They outline the software from the end-user, business, and stakeholder perspective. | They outline the software from the technical team perspective.
 
 
