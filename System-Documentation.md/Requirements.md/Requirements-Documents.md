@@ -1,4 +1,4 @@
-There are different documents in requirements and specifications, the following sections will *briefly* explain them.
+There are different documents in requirements and specifications, the following sections will *briefly* explain them. But first, we need to know the difference between requirements and specifications.
 
 # Requirements vs. Specifications
 
