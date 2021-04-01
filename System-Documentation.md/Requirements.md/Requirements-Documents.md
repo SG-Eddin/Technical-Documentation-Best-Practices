@@ -1,9 +1,22 @@
-# Software Requirements Specification (SRS) / Functional Specifications Document (FSD) / Product Specifications Documet (PSD) / Product Requiremets Document (PRD)
+There are different documents in requirements and specifications, the following sections will *briefly* explain them.
 
-All three documents are for one purpose:
+# Requirements vs. Specifications
+
+Requirements | Specifications
+-------------|----------------
+They outline ***what*** the software must do. | They outline ***how*** the software will be created
+They outline the software from the end-user, business, and stakeholder perspective. | They outline the software from the technical team perspective.
+
+# System Requirements Specification (SRS) / Functional Specifications Document (FSD) / Product Specifications Documet (PSD) / Product Requiremets Document (PRD)
+
+All these documents are for one purpose:
 Description of a software system to be developed. It ties together the [Requirements Types](https://github.com/SG-Eddin/Technical-Documentation-Best-Practices/blob/main/System-Documentation.md/Requirements.md/Requirements-Writing-Types.md#requirements-writing-types).
 
-## SRS Goals
+## Difference between **SRS** and **BRS**
+
+System Requiremets
+
+# SRS Goals
 - Facilitates reviews
 - Describes the scope of work
 - Serves as a reference to software designers (i.e. navigation aids, documents structure, etc.)
