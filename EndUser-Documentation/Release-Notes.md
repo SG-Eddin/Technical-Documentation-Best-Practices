@@ -21,45 +21,32 @@ A realse note documents the technical updates between two versions of the same s
 
 ## An example template for a release note
 -------------------------------------------
-**Identify the document**
-``` text
-- Release date
-- Product version
-- Previous product version
-```
+- **Identify the document**
+  - Release date
+  - Product version
+  - Previous product version
 
-**New Features**
-``` text
-- List the features or functionality in this release.
-- What are the benefits of the new feature?
-```
+- **New Features**
+  - List the features or functionality in this release.
+  - What are the benefits of the new feature?
 
-**Enhancements** (improvements made in the existing features)
-```text
-- List changes to existing features.
-- What is the justification for the change?
-- How is the change beneficial?
-```
+- **Enhancements** (improvements made in the existing features)
+  - List changes to existing features.
+  - What is the justification for the change?
+  - How is the change beneficial?
 
-**Resolved Issues** (bug fixes in high-level without technical details)
-```text
-- Detail any problems that existed in previous release, that were fixed in this release.
-- Include the solution to the issue.
-```
+- **Resolved Issues** (bug fixes in high-level without technical details)
+  - Detail any problems that existed in previous release, that were fixed in this release.
+  - Include the solution to the issue.
 
-**Known Issues**
-```text
-- List any bugs that are known to exist when the software releases (Make sure they are resolved in subsequent releases).
-```
+- **Known Issues**
+  - List any bugs that are known to exist when the software releases (Make sure they are resolved in subsequent releases).
 
-**FAQs**
-```text
-- Common or anticipated user questions and their answers.
-```
+- **FAQs**
+  - Common or anticipated user questions and their answers.
 
-**Other**
+- **Other**
 *This part is optional and only added if there are changes since previous release.*
-```text
-- System Requirements
-- Installation instructions
-```
+  - System Requirements
+  - Installation instructions
+
