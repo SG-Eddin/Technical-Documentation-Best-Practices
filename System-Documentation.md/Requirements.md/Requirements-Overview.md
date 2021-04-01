@@ -70,7 +70,7 @@ Requirements | Design
 
 Requirements | Specifications
 -------------|----------------
-They outline ***what*** the software must do. | They outline ***how*** the software will be created
+They outline ***what*** the software must do. | They outline ***how*** the software will be created.
 They outline the software from the end-user, business, and stakeholder perspective. | They outline the software from the technical team perspective.
 
 
