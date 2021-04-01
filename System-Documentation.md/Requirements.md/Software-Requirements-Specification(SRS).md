@@ -1,4 +1,4 @@
-# Software Requirements Specification (SRS)
+# Software Requirements Specification (SRS) / Functional Specifications Document (FSD) / Product Specifications Documet (PSD)
 Description of a software system to be developed. It ties together the requirements that were mentioned earlier.
 
 ## SRS Goals
