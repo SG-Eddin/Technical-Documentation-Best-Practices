@@ -7,7 +7,10 @@ Requirements | Specifications
 They outline ***what*** the software must do. | They outline ***how*** the software will be created
 They outline the software from the end-user, business, and stakeholder perspective. | They outline the software from the technical team perspective.
 
-# System Requirements Specification (SRS) / Functional Specifications Document (FSD) / Product Specifications Documet (PSD) / Product Requiremets Document (PRD)
+# System Requirements Specification (SRS) / 
+## Functional Specifications Document (FSD) / 
+## Product Specifications Documet (PSD) / 
+##Product Requiremets Document (PRD)
 
 All these documents are for one purpose:
 Description of a software system to be developed. It ties together the [Requirements Types](https://github.com/SG-Eddin/Technical-Documentation-Best-Practices/blob/main/System-Documentation.md/Requirements.md/Requirements-Writing-Types.md#requirements-writing-types).
