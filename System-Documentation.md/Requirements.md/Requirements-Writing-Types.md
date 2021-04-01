@@ -26,7 +26,7 @@ Now, let's see the requirements' types that will bring these points together:
 Business requirements answer the question of *'Why the product should be created?'*. It outlines the purpose of a software project and the reason why the client wants this project for their business *not how*.
 
 - Business requirements are a high-level features of the system.
-- It is usually written in [Traditional (Text-Based) style](https://github.com/SG-Eddin/Technical-Documentation-Best-Practices/blob/main/Requirements/Requirements-Writing-Styles.md#2-traditional-text-based).
+- It is usually written in [Traditional (Text-Based) style](https://github.com/SG-Eddin/Technical-Documentation-Best-Practices/blob/main/System-Documentation.md/Requirements.md/Requirements-Writing-Styles.md#2-traditional-text-based).
 
 *Example:
 Provide an SMS notification system for college students.*
@@ -69,8 +69,8 @@ As a student, I want to receive an SMS message when my certificate is ready so t
 
 ## Solution Requirements
 Solution requirements falls under the scope of the development team, they are:
-- [Functional](https://github.com/SG-Eddin/Technical-Documentation-Best-Practices/blob/main/Requirements/Requirements-Writing-Types.md#functional-requirements)
-- [Non-Functional](https://github.com/SG-Eddin/Technical-Documentation-Best-Practices/blob/main/Requirements/Requirements-Writing-Types.md#non-functional-requirements)
+- [Functional](https://github.com/SG-Eddin/Technical-Documentation-Best-Practices/blob/main/System-Documentation.md/Requirements.md/Requirements-Writing-Types.md#functional-requirements)
+- [Non-Functional](https://github.com/SG-Eddin/Technical-Documentation-Best-Practices/blob/main/System-Documentation.md/Requirements.md/Requirements-Writing-Types.md#non-functional-requirements)
 
 ### Functional Requirements
 
@@ -80,12 +80,12 @@ Solution requirements falls under the scope of the development team, they are:
  
 ![Picture1](https://user-images.githubusercontent.com/60129693/112746773-6156e480-8fb1-11eb-97be-3cf1521e194b.png)
 
-- Can be written as [User Stories](https://github.com/SG-Eddin/Technical-Documentation-Best-Practices/blob/main/Requirements/Requirements-Writing-Styles.md#1-user-stories).
+- Can be written as [User Stories](https://github.com/SG-Eddin/Technical-Documentation-Best-Practices/blob/main/System-Documentation.md/Requirements.md/Requirements-Writing-Styles.md#1-user-stories).
 *Example: "As a college administrator, I want to update the student's phone number so that they can receive SMS messages"*
 
 - You have to be specific in taking requirement to avoid problems in planning.
 
-- Can also be written as a [Use Case](https://github.com/SG-Eddin/Technical-Documentation-Best-Practices/blob/main/Requirements/Requirements-Writing-Styles.md#3-use-cases).
+- Can also be written as a [Use Case](https://github.com/SG-Eddin/Technical-Documentation-Best-Practices/blob/main/System-Documentation.md/Requirements.md/Requirements-Writing-Styles.md#3-use-cases).
 
 *Example:*
 
