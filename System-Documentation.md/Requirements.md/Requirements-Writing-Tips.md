@@ -20,6 +20,10 @@ The project is cancelled during the development cycle.
 
 ![Why Software Projects Fail](https://user-images.githubusercontent.com/60129693/111956021-f447d880-8af2-11eb-83ef-b43410acd0ea.jpg)
 
+# Best Practice
+The best practice is to write a requirement document using a single and consistent template that all team members adhere to.
+
+
 
 ## Characteristics of Writing Good Requirements
 There are some characteristics of good requirements, they should be:
