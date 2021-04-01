@@ -64,7 +64,7 @@ Describes the product that will be developed and provides instructions on how to
 Product documentation includes:
 - **[System documentation](https://github.com/SG-Eddin/Technical-Documentation-Best-Practices/tree/main/System-Documentation.md)**: describe the system itself for the team through the following documents:
   - [Requirements](https://github.com/SG-Eddin/Technical-Documentation-Best-Practices/tree/main/System-Documentation.md/Requirements.md)
-  - Design and architecture
+  - [Design and architecture](https://github.com/SG-Eddin/Technical-Documentation-Best-Practices/blob/main/System-Documentation.md/Design%26Architecture-Documentation.md)
   - Roadmaps (in Agile)
   - Code documentation
   - User experience design
