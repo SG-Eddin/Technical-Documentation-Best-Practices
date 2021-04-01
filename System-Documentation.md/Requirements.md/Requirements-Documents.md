@@ -1,11 +1,4 @@
-There are different documents in requirements and specifications, the following sections will *briefly* explain them. But first, we need to know the difference between requirements and specifications.
-
-# Requirements vs. Specifications
-
-Requirements | Specifications
--------------|----------------
-They outline ***what*** the software must do. | They outline ***how*** the software will be created
-They outline the software from the end-user, business, and stakeholder perspective. | They outline the software from the technical team perspective.
+There are different documents in requirements and specifications, the following sections will *briefly* explain them.
 
 # System Requirements Specification (SRS) / 
 ## Functional Specifications Document (FSD) / 
