@@ -1,4 +1,6 @@
-# Software Requirements Specification (SRS) / Functional Specifications Document (FSD) / Product Specifications Documet (PSD)
+# Software Requirements Specification (SRS) / Functional Specifications Document (FSD) / Product Specifications Documet (PSD) / Product Requiremets Document (PRD)
+
+All three documents are for one purpose:
 Description of a software system to be developed. It ties together the requirements that were mentioned earlier.
 
 ## SRS Goals
