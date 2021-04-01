@@ -11,14 +11,14 @@ This will help you to describe:
 
 Now, let's see the requirements' types that will bring these points together:
 
-1. [Business Requirements](https://github.com/SG-Eddin/Technical-Documentation-Best-Practices/blob/main/Requirements/Requirements-Writing-Types.md#business-requirements)
-   - [Business Rules](https://github.com/SG-Eddin/Technical-Documentation-Best-Practices/blob/main/Requirements/Requirements-Writing-Types.md#business-rules-restrictions)
-2. [User Requirements](https://github.com/SG-Eddin/Technical-Documentation-Best-Practices/blob/main/Requirements/Requirements-Writing-Types.md#user-stakeholder-requirements) 
-3. [Solution Requirements](https://github.com/SG-Eddin/Technical-Documentation-Best-Practices/blob/main/Requirements/Requirements-Writing-Types.md#solution-requirements)
-   - [Functional](https://github.com/SG-Eddin/Technical-Documentation-Best-Practices/blob/main/Requirements/Requirements-Writing-Types.md#functional-requirements) (What the product should do or support?)
-   - [Non-Functional](https://github.com/SG-Eddin/Technical-Documentation-Best-Practices/blob/main/Requirements/Requirements-Writing-Types.md#non-functional-requirements) (How well a product must perform (the quality factor of the product)?)
-4. [Development Constraints Requirements](https://github.com/SG-Eddin/Technical-Documentation-Best-Practices/blob/main/Requirements/Requirements-Writing-Types.md#development-constraints-requirements)
-5. [Interface Requirements](https://github.com/SG-Eddin/Technical-Documentation-Best-Practices/blob/main/Requirements/Requirements-Writing-Types.md#interface-requirements)
+1. [Business Requirements](https://github.com/SG-Eddin/Technical-Documentation-Best-Practices/blob/main/System-Documentation.md/Requirements.md/Requirements-Writing-Types.md#business-requirements)
+   - [Business Rules](https://github.com/SG-Eddin/Technical-Documentation-Best-Practices/blob/main/System-Documentation.md/Requirements.md/Requirements-Writing-Types.md#business-rules-restrictions)
+2. [User Requirements](https://github.com/SG-Eddin/Technical-Documentation-Best-Practices/blob/main/System-Documentation.md/Requirements.md/Requirements-Writing-Types.md#user-stakeholder-requirements) 
+3. [Solution Requirements](https://github.com/SG-Eddin/Technical-Documentation-Best-Practices/blob/main/System-Documentation.md/Requirements.md/Requirements-Writing-Types.md#solution-requirements)
+   - [Functional](https://github.com/SG-Eddin/Technical-Documentation-Best-Practices/blob/main/System-Documentation.md/Requirements.md/Requirements-Writing-Types.md#functional-requirements) (What the product should do or support?)
+   - [Non-Functional](https://github.com/SG-Eddin/Technical-Documentation-Best-Practices/blob/main/System-Documentation.md/Requirements.md/Requirements-Writing-Types.md#non-functional-requirements) (How well a product must perform (the quality factor of the product)?)
+4. [Development Constraints Requirements](https://github.com/SG-Eddin/Technical-Documentation-Best-Practices/blob/main/System-Documentation.md/Requirements.md/Requirements-Writing-Types.md#development-constraints-requirements)
+5. [Interface Requirements](https://github.com/SG-Eddin/Technical-Documentation-Best-Practices/blob/main/System-Documentation.md/Requirements.md/Requirements-Writing-Types.md#interface-requirements)
 
 -----------------------------------------------------------------------------------------------------------------------
 
@@ -54,12 +54,12 @@ It can be identified as the core requirements of the product being developed.
 
 - Written from the prespective of the user.
 
-- It is usually written in [Traditional (Text-Based) style](https://github.com/SG-Eddin/Technical-Documentation-Best-Practices/blob/main/Requirements/Requirements-Writing-Styles.md#2-traditional-text-based).
+- It is usually written in [Traditional (Text-Based) style](https://github.com/SG-Eddin/Technical-Documentation-Best-Practices/blob/main/System-Documentation.md/Requirements.md/Requirements-Writing-Styles.md#2-traditional-text-based).
 
 *Example:
 A student shall be able to receive an SMS notification when their certificate is ready to pick up.*
 
-- User requirements can also be written in the form of a [User Story](https://github.com/SG-Eddin/Technical-Documentation-Best-Practices/blob/main/Requirements/Requirements-Writing-Styles.md#1-user-stories).
+- User requirements can also be written in the form of a [User Story](https://github.com/SG-Eddin/Technical-Documentation-Best-Practices/blob/main/System-Documentation.md/Requirements.md/Requirements-Writing-Styles.md#1-user-stories).
 
 *Example:
 As a student, I want to receive an SMS message when my certificate is ready so that I know when to go to the college to collect it.*
