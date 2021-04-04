@@ -40,7 +40,9 @@ Suggests services or products and may be solicited/unsolicited.
 #### Scope
 Is set by the client or through your investigation of the kinds of information your audience needs in order to make a purchase decision.
 
+![IT Sales Proposal Template](https://user-images.githubusercontent.com/60129693/113511007-e0be5800-955d-11eb-8d92-dcf6c4edd53d.png)
 
+--------------------------------------------------------------------------------------------------
 ## Proposal Template
 
 1. **Planning:**
