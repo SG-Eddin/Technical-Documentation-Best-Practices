@@ -58,6 +58,7 @@ Software documentation can be devided into two main categories:
 
 ![software documentation (general)](https://user-images.githubusercontent.com/60129693/113505361-9d082600-953e-11eb-8854-5f4ccd817b16.png)
 
+![software documentation (general)](https://user-images.githubusercontent.com/60129693/113505525-a5ad2c00-953f-11eb-9298-7d05583f5560.png)
 
 
  #### Product Documentation
