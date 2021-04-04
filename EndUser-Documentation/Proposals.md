@@ -1,5 +1,5 @@
 # Proposal Writing Guidelines
-A **Proposal** is a document intended to persuade someone to act on your recommendations.
+A **Proposal** is a document intended to persuade someone to act on your recommendations. It is a way make a positive change on a business by implementing a project.
 
 ## Audience
 You need to identify your audience and consider what arguments will be the most persuasive.
@@ -39,3 +39,31 @@ Suggests services or products and may be solicited/unsolicited.
 
 #### Scope
 Is set by the client or through your investigation of the kinds of information your audience needs in order to make a purchase decision.
+
+
+## Proposal Template
+
+1. **Planning:**
+ - Sketch your problem or point of improvement. > (*what problem you want to solve? what could be improved?)*
+ - Sketch your proposed solution.
+   > *Example*: the "project" will: 
+   > 1. Upgrade the system
+   > 2. Increase the bandwidth
+   
+
+ - Define your reader.
+
+2. **Writing:**
+ - Draft the problem your idea will solve.
+ - Include who the proposal will affect.
+ - Draft the proposed solution to the problem.
+ - Include a step-by-step process for solving the problem.
+ - Identify and describe necessary personnel.
+ - Reiterate the main argument and proposal purpose.
+ - State the costs.
+ - State the benefits.
+ 
+ 3. **Pre-release:**
+ - Replace jargon with simple language.
+ - Ensure that the document is simple and easy to read.
+ - Check spelling and grammar mistakes.
