@@ -77,8 +77,14 @@ Is set by the client or through your investigation of the kinds of information y
    > *Break down and summarize the costs needed for the implementation of the project.*
  
  - State the benefits.
+   > *List the benefits in bullet form after the costs section, to show how the costs are justified.*
  
  3. **Pre-release:**
  - Replace jargon with simple language.
+   > *Remove any words that might be hard on the reader or prevents understanding.*
+  
  - Ensure that the document is simple and easy to read.
+   > *Check the logical flow of arguments and make sure your idea is expressed simply.*
+   
  - Check spelling and grammar mistakes.
+    > *Revise your document and check errors and typos. You ca use [Grammarly](https://www.grammarly.com/).
