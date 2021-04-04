@@ -54,10 +54,6 @@ Software documentation can be devided into two main categories:
 - [Product documentation](https://github.com/SG-Eddin/Technical-Documentation-Best-Practices/blob/main/About-Technical-Documentation.md#product-documentation)
 - Process documentation
 
-![Software documentation used in Agile (Small image)](https://user-images.githubusercontent.com/60129693/113143472-77240e00-922c-11eb-9fd6-3f8d21d7d1cd.png)
-
-![software documentation (general)](https://user-images.githubusercontent.com/60129693/113505361-9d082600-953e-11eb-8854-5f4ccd817b16.png)
-
 ![software documentation (general)](https://user-images.githubusercontent.com/60129693/113505525-a5ad2c00-953f-11eb-9298-7d05583f5560.png)
 
 
