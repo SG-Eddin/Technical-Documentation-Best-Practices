@@ -56,9 +56,6 @@ Software documentation can be devided into two main categories:
 
 ![Software documentation used in Agile (Small image)](https://user-images.githubusercontent.com/60129693/113143472-77240e00-922c-11eb-9fd6-3f8d21d7d1cd.png)
 
-![software documentation (general)](https://user-images.githubusercontent.com/60129693/113504883-86140480-953b-11eb-98d1-c30ea5ff9236.png)
-
-
 
  #### Product Documentation
 
