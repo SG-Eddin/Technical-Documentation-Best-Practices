@@ -54,7 +54,7 @@ Software documentation can be devided into two main categories:
 - [Product documentation](https://github.com/SG-Eddin/Technical-Documentation-Best-Practices/blob/main/About-Technical-Documentation.md#product-documentation)
 - Process documentation
 
-![software documentation (general)](https://user-images.githubusercontent.com/60129693/113505525-a5ad2c00-953f-11eb-9298-7d05583f5560.png)
+![software documentation (general)](https://user-images.githubusercontent.com/60129693/113505829-8ca57a80-9541-11eb-95fd-db7b6344dc61.png)
 
 
  #### Product Documentation
