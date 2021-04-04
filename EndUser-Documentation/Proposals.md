@@ -22,4 +22,20 @@ Proposals are submitted at the request of the customer who evaluates and selects
 - **Title or subject line:** Clearly state your proposal.
 - **Background information:** Offer your readers a background content.
 - **Statement of problem or situation:** Clearly describe the problem or situation.
-- **Description of solution or resolution:** Fully describe how you plan to  
+- **Description of solution or resolution:** Fully describe how you plan to solev the problem or situation.
+- **Costs, timing, and qualifications:** Write any details involving money, time, and expertise.
+- **Coclusion:** End with a call to action.
+
+## Elements of your Argument
+- Show that you uderstand the clients' request and that you have their best interest in mind.
+- Show that you undersatnd the project/product, goal, and time commitment.
+- Offer a clear solution to the problem and demonstarte the benifits of your solution.
+- Jsutify your proposal by making it clear that your product or service is the best choice.
+- Show that you will reliably deliver on your recommendation and that you will comply with the client's way of doing business.
+
+
+### Sales Proposal
+Suggests services or products and may be solicited/unsolicited.
+
+#### Scope
+Is set by the client or through your investigation of the kinds of information your audience needs in order to make a purchase decision.
