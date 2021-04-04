@@ -44,23 +44,38 @@ Is set by the client or through your investigation of the kinds of information y
 ## Proposal Template
 
 1. **Planning:**
- - Sketch your problem or point of improvement. > (*what problem you want to solve? what could be improved?)*
+ - Sketch your problem or point of improvement.
+   > (*what problem you want to solve? what could be improved?)*
  - Sketch your proposed solution.
    > *Example*: the "project" will: 
-   > 1. Upgrade the system
-   > 2. Increase the bandwidth
+   > - Upgrade the system
+   > - Increase the bandwidth
    
-
  - Define your reader.
+   > *Knowing who your reader is, helps you in persuasively appeal to them, using their concepts and language.*)
 
 2. **Writing:**
  - Draft the problem your idea will solve.
  - Include who the proposal will affect.
+   > *People reading your proposal will be looking for an idea of how important your project is.*
+   > *Example: Customer support, technical support, and all customer-facing staff.*
+
  - Draft the proposed solution to the problem.
+   > *Summarize your solution in a one paragraph summary.*
+   
  - Include a step-by-step process for solving the problem.
+   > *Break down the solution summary into steps to make your reader know what needs to be executed.*
+   
  - Identify and describe necessary personnel.
+   > *If your proposal is approved, who will be responsible of implementing it. Does it require the expertise of an existing employee?*
+  
+  
  - Reiterate the main argument and proposal purpose.
+   > *Before moving to the costs section, make sure to repeat why you are proposing this project and what positive effects it will achieve.*
+   
  - State the costs.
+   > *Break down and summarize the costs needed for the implementation of the project.*
+ 
  - State the benefits.
  
  3. **Pre-release:**
