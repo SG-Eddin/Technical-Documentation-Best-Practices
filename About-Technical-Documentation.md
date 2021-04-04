@@ -69,8 +69,11 @@ Product documentation includes:
   - Code documentation
   - User experience design
   - Testing documents
-  - Help and maintenance
   
-- **[End-User documentation](https://github.com/SG-Eddin/Technical-Documentation-Best-Practices/tree/main/EndUser-Documentation)**: created for the product users according to their privilege:
-  - End-users
-  - System administrators
+- **[End-User documentation](https://github.com/SG-Eddin/Technical-Documentation-Best-Practices/tree/main/EndUser-Documentation)**: 
+  - Installation instructions
+  - Quick Start guides
+  - User manuals (Users and Administrators)
+  - Release notes
+  - Training materials
+  - Tutorials
