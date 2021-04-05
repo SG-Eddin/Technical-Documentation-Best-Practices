@@ -71,14 +71,15 @@ Product documentation includes:
   - Testing documents
   
 - **[End-User documentation](https://github.com/SG-Eddin/Technical-Documentation-Best-Practices/tree/main/EndUser-Documentation)**: 
-  - Business Documents:
-   - White Papers
-   - Proposals
+   - Business Documents:
+     - White Papers
+     - Proposals
+  
   
   - User Documents
-   - Installation instructions (Installation guide)
-   - Quick Start guides
-   - User manuals (Users and Administrators)
-   - Release notes
-   - Training materials
-   - Tutorials
+    - Installation instructions (Installation guide)
+    - Quick Start guides
+    - User manuals (Users and Administrators)
+    - Release notes
+    - Training materials
+    - Tutorials
