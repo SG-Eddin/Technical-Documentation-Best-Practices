@@ -22,3 +22,5 @@
   * [Release Notes](https://github.com/SG-Eddin/Technical-Documentation-Best-Practices/blob/main/EndUser-Documentation/Release-Notes.md)
   * [User Manual](https://github.com/SG-Eddin/Technical-Documentation-Best-Practices/blob/main/EndUser-Documentation/User-Manual.md)
 
+* [References](https://github.com/SG-Eddin/Technical-Documentation-Best-Practices/blob/main/References.md)
+
