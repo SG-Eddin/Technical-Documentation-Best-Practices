@@ -15,7 +15,7 @@ The same format of reports. | Email or a memo (within a business) or a letter (s
 
 Solicited (Requested) | Unsolicited (Unrequested)
 ----------------------|--------------------------
-Proposals are submitted at the request of the customer who evaluates and selects the proposal that best meets their needs. | Proposals sent and wait a recipient who will acknowledge a need and decides that you, as a provider (solicitor), are the one to address it.
+Proposals are submitted at the request of the customer who evaluates and selects the proposal that best meets their needs. | Proposals sent and wait a recipient who will acknowledge a need and decides that you, as a provider (solicitor), are the one to address it. This is called Request for Proposal (RFP).
 
 
 ## Structure
