@@ -19,6 +19,19 @@ A realse note documents the technical updates between two versions of the same s
 * Group them logically
 * Inlcude relevant links
 
+### Release Noted Channels:
+Release notes can be announced through different channels such as: 
+- Email
+- App store
+- In-app-notifications / messaging
+- Blog posts
+- Social media (Facebook, Twitter,...etc.)
+
+Sometimes, it is great to notify your users through more than one channel, keeping social media and in-app posts short and provide links to in-depth release notes in the bolg or company website (for example).
+
+
+
+
 ## An example template for a release note
 -------------------------------------------
 - **Identify the document**
@@ -50,3 +63,7 @@ A realse note documents the technical updates between two versions of the same s
   - System Requirements
   - Installation instructions
 
+
+***Example***
+
+![Release note example](https://user-images.githubusercontent.com/60129693/113553590-4e1ec700-95f8-11eb-82e9-23d66b78e015.png)
