@@ -7,7 +7,6 @@ Business - especially in the consulting, financial, or B2B sectors - use white p
 
 - Provides useful information for business people seeking to understand an issue or make a decision. 
 - White paper is intended to provide persuasive and factual/technical evidence that a particular offering is a superior method of solving a problem or challenge.
-- 
 
 ## Format
 - White paper is somewhere between a technical manual and a brochure.
