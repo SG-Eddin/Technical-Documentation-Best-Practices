@@ -49,14 +49,14 @@ Is set by the client or through your investigation of the kinds of information y
 
 1. **Planning:**
  - Sketch your problem or point of improvement.
-   > (*what problem you want to solve? what could be improved?)*
+   > (*What is the problem that you want to solve? what could be improved?)*
  - Sketch your proposed solution.
    > *Example*: the "project" will: 
    > - Upgrade the system
    > - Increase the bandwidth
    
  - Define your reader.
-   > *Knowing who your reader is, helps you in persuasively appeal to them, using their concepts and language.*)
+   > *Knowing who your reader is, helps you in persuasively appeal to them, using their concepts and language.*
 
 2. **Writing:**
  - Draft the problem your idea will solve.
