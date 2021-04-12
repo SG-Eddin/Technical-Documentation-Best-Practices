@@ -12,4 +12,4 @@
 - [Technical Writing / Types of User Documentation](https://en.wikiversity.org/wiki/Technical_writing/Types_of_User_Documentation)
 A Wikiversity article on technical documentation starting with process and system requirments' documentation to the user documentation.
 - [Agile Documentation.](http://www.agilemodeling.com/essays/agileDocumentation.htm#AreAgilistsActuallyCreatingDocumentation)
-- 
+
