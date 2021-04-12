@@ -91,4 +91,4 @@ Is set by the client or through your investigation of the kinds of information y
    > *Check the logical flow of arguments and make sure your idea is expressed simply.*
    
  - Check spelling and grammar mistakes.
-    > *Revise your document and check errors and typos. You ca use [Grammarly](https://www.grammarly.com/).
+    > *Revise your document and check errors and typos. You ca use [Grammarly](https://www.grammarly.com/).*
