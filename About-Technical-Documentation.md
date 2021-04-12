@@ -5,7 +5,7 @@ Technical writing is not just about understanding technical information and reco
 
 ### Definition
 
-Technical Documentation / Technical Writing falls under *Technical Communication* which is broadly defined by the [Society of Technical Communication](https://www.stc.org/about-stc/defining-technical-communication/) (STC) as:
+Technical Documentation / Technical Writing falls under *Technical Communication* which is broadly defined by the [Society for Technical Communication](https://www.stc.org/about-stc/defining-technical-communication/) (STC) as:
 
 Any form of communication that shows one or more of the following qualities:
 
