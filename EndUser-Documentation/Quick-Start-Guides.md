@@ -17,7 +17,7 @@ Example:
 ![unnamed](https://user-images.githubusercontent.com/60129693/114691046-8ff5ee80-9d17-11eb-8a8e-f77f6caa8b7d.png)
 
 
-**screenshots** is used if you are writing a quick start guide for a software, a game, an app, or system.
+**Screenshots** is used if you are writing a quick start guide for a software, a game, an app, or system.
 Usually, these screenshots are annotated with arrows or markings to draw the user's attention to details in the image itself. Annotated screenshots are helpful when a user interface has lots of options or the specific button you want them to click is difficult to describe in words. Annotated screenshots are helpful when a user interface has lots of options or the specific button you want them to click is difficult to describe in words.
 
 *Example:*
