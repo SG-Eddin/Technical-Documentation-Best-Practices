@@ -11,4 +11,7 @@ Before writing, you need to decide what type of guide you are writing to figure 
 Any visual you are adding to your quick start guide ***must be useful to your user***
 
 **Flow charts** is a great option if you are writing about how a process works.
+
+Example:
+
 ![unnamed](https://user-images.githubusercontent.com/60129693/114691046-8ff5ee80-9d17-11eb-8a8e-f77f6caa8b7d.png)
