@@ -40,7 +40,7 @@ Annotated screenshots are helpful when a user interface has lots of options or t
 # Best Practices
 
 1. Base yout quick-start guide on your full user manual. Pick out topics listed in the full user manual that should be included in the quick-start guide.
-2. Identify the overall purpose of the guide by explaining the outcome
+2. Identify the overall purpose of the guide by explaining the outcome.
 3. Address your reader directly using you or the imperative form.
 Add headings to group the instructions into smaller sets.
 Move supplementary information such as notes to before the actual instruction.
