@@ -1,5 +1,6 @@
 # Release Notes
 Release notes are also known as 'Product Changes' and 'What's New?'.
+
 A realse note documents the technical updates between two versions of the same software/product (i.e. V.1 and V.2) and outlines what has been improved and how they benefit users.
 
 ## Audience
