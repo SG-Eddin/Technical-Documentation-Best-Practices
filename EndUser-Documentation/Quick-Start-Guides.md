@@ -8,8 +8,7 @@ Before writing, you need to decide what type of guide you are writing to figure 
 3. Will it tell your user how to do a single task?
 
 ## Adding visuals
-Any visual you are adding to your quick start guide ***must be useful to your user***
-
+Any visual you are adding to your quick start guide ***must be useful to your user**.
 **Flow charts** is a great option if you are writing about how a process works.
 
 Example:
