@@ -23,7 +23,7 @@ On a project, you and your team decide if this is the best way to follow.
 Item | Description
 ------------|-------
 **Format:** | As a ```<type of user>```, I want to ```<task/function>```, so that ```<reason>```
-**Examples 1:**| 1: *As a <**student**>, I want <**to receive an SMS when my certification is ready to pick up**>, so that <**I can avoid unnecessary waiting at the college**>*
+**Example 1:**| 1: *As a <**student**>, I want <**to receive an SMS when my certification is ready to pick up**>, so that <**I can avoid unnecessary waiting at the college**>*
 **Example 2:**| 2: *As a <**college administrator**>, I want to <**enroll a student in the SMS notification service**>, so that <**they can receive notifications when their certifications are ready to pick up**>*
 **Benefits:**| Brief, understandable by users and developers, iterative, and easy to estimate effort.
 **Limitations:**| Lack of performance and non-functional details, and open to interpretation.
