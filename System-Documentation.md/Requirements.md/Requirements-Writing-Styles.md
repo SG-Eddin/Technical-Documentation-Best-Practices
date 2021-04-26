@@ -5,9 +5,9 @@ There is no right or wrong in choosing the style of writing the requirements. It
 
 
 
-1. [User Stories](https://github.com/SG-Eddin/Technical-Documentation-Best-Practices/blob/main/Requirements/Requirements-Writing-Styles.md#1-user-stories)
-2. [Traditional (Text-Based)](https://github.com/SG-Eddin/Technical-Documentation-Best-Practices/blob/main/Requirements/Requirements-Writing-Styles.md#2-traditional-text-based)
-3. [Use Cases](https://github.com/SG-Eddin/Technical-Documentation-Best-Practices/blob/main/Requirements/Requirements-Writing-Styles.md#3-use-cases)
+1. [User Stories](https://github.com/SG-Eddin/Technical-Documentation-Best-Practices/blob/main/System-Documentation.md/Requirements.md/Requirements-Writing-Styles.md#1-user-stories)
+2. [Traditional (Text-Based)](https://github.com/SG-Eddin/Technical-Documentation-Best-Practices/blob/main/System-Documentation.md/Requirements.md/Requirements-Writing-Styles.md#2-traditional-text-based)
+3. [Use Cases](https://github.com/SG-Eddin/Technical-Documentation-Best-Practices/blob/main/System-Documentation.md/Requirements.md/Requirements-Writing-Styles.md#3-use-cases)
 
 
 ## 1. User Stories
