@@ -22,7 +22,7 @@ Proposals are submitted at the request of the customer who evaluates and selects
 - **Title or subject line:** Clearly state your proposal.
 - **Background information:** Offer your readers a background content.
 - **Statement of problem or situation:** Clearly describe the problem or situation.
-- **Description of solution or resolution:** Fully describe how you plan to solev the problem or situation.
+- **Description of solution or resolution:** Fully describe how you plan to solve the problem or situation.
 - **Costs, timing, and qualifications:** Write any details involving money, time, and expertise.
 - **Coclusion:** End with a call to action.
 
