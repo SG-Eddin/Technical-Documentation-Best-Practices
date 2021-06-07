@@ -1,5 +1,5 @@
 # Proposal Writing Guidelines
-A **Proposal** is a document intended to persuade someone to act on your recommendations. It is a way make a positive change on a business by implementing a project.
+A **Proposal** is a document intended to persuade someone to act on your recommendations. It is a way to make a positive change on a business by implementing a project.
 
 ## Audience
 You need to identify your audience and consider what arguments will be the most persuasive.
