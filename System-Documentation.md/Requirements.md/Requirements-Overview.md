@@ -47,7 +47,7 @@ While you are creating the list of requirements (that you will present to develo
 - Complete
 - Clear
 - Consistent
-> Refer to [Characteristics of Writing Good Requirements](https://github.com/SG-Eddin/Technical-Documentation-Best-Practices/blob/main/Requirements/Requirements-Writing.md#characteristics-of-writing-good-requirements).
+> Refer to [Characteristics of Writing Good Requirements](https://github.com/SG-Eddin/Technical-Documentation-Best-Practices/blob/main/System-Documentation.md/Requirements.md/Requirements-Writing-Tips.md#characteristics-of-writing-good-requirements).
 
 By analyzing requirements, you make sure that all the requirements you created work well together and they accurately reflect the product which will be built.
 
