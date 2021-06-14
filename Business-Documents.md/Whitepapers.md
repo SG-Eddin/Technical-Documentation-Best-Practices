@@ -1,5 +1,6 @@
 # White Paper
 A White paper (whitepaper) is an informational document issued by a company that uses facts to promote or highlight the features of a product, solution, service, or technology that it offers. White papers are also used to present policies and legislation.
+It is an in-depth report or guide about a specific topic and the problems that surround it. It is meant to educate readers and help them to understand and solve an issue.
 
 Business - especially in the consulting, financial, or B2B sectors - use white papers to communicate their organization's philosophy on a topic, make the case for the superiority of their product, or simply to present research findings related to their field.
 
