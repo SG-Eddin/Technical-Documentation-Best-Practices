@@ -55,7 +55,7 @@ Is set by the client or through your investigation of the kinds of information y
    > - Increase the bandwidth
    
  - Define your reader.
-   > *Knowing who your reader is, helps you in persuasively appeal to them, using their concepts and language.*
+   > *Knowing who your reader is helps you in persuasively appeal to them using their concepts and language.*
 
 2. **Writing:**
  - Draft the problem your idea will solve.
