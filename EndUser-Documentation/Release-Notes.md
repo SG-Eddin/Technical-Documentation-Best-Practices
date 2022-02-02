@@ -8,7 +8,7 @@ A realse note documents the technical updates between two versions of the same s
 * Sales and Marketing
 
 ## What it describes?
-- What does the product do and "why" the product is created? A brief description of the product ides and summary of the final product, features, and timeline.
+- What does the product do and "why" the product is created?
 - What are the benefits of upgrading?
 - New Features
 - Bug Fixes
@@ -42,6 +42,7 @@ Sometimes, it is great to notify your users through more than one channel, keepi
   - Previous product version
 
 - **Product Summary**
+  - A brief description of the product ides and summary of the final product, features, and timeline.
 
 - **New Features**
   - List the features or functionality in this release.
