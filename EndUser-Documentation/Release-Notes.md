@@ -54,7 +54,7 @@ Sometimes, it is great to notify your users through more than one channel, keepi
   - How is the change beneficial?
 
 - **Resolved Issues** (bug fixes in high-level without technical details)
-  - Detail any problems that existed in previous release, that were fixed in this release.
+  - Detail any problems that existed in the previous release, that were fixed in this release.
   - Include the solution to the issue.
 
 - **Known Issues**
@@ -64,7 +64,7 @@ Sometimes, it is great to notify your users through more than one channel, keepi
   - Common or anticipated user questions and their answers.
 
 - **Other**
-*This part is optional and only added if there are changes since previous release.*
+*This part is optional and only added if there are changes since the previous release.*
   - System Requirements
   - Installation instructions
 
