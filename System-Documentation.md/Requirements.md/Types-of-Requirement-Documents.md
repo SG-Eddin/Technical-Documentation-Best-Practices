@@ -1,8 +1,8 @@
 There are different documents in requirements and specifications, the following sections will *briefly* explain them.
 
-# System Requirements Specification (SRS) / 
-## Functional Specifications Document (FSD) / 
-## Product Specifications Documet (PSD) / 
+# System Requirements Specification (SRS) 
+## Functional Specifications Document (FSD) 
+## Product Specifications Documet (PSD) 
 ## Product Requiremets Document (PRD)
 
 All these documents are for one purpose:
